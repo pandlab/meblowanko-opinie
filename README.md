@@ -49,8 +49,10 @@ Całość - [Re_Reklamacja_zamówienia_A04032026_z_dnia_16042026r.pdf](./Re_Rekl
 
 |  |  |  |  |
 |--|--|--|--|
-| ![](./photo/IMG_20260416_143006.jpg) | ![](./photo/IMG_20260417_075021.jpg) | ![](./photo/IMG_20260416_084042-crop.jpg) | ![](./photo/IMG_20260417_080002.jpg) |
-| ![](./photo/IMG_20260417_075727.jpg) | ![](./photo/IMG_20260417_075521.jpg) | ![](./photo/IMG_20260417_075304.jpg) | ![](./photo/IMG_20260417_075749.jpg) |
+| ![](./photo/IMG_20260416_143006.jpg) | ![](./photo/IMG_20260417_080101.jpg) | ![](./photo/IMG_20260417_075021.jpg) | ![](./photo/IMG_20260417_074754.jpg) |
+| ![](./photo/IMG_20260416_084042-crop.jpg) | ![](./photo/IMG_20260417_080002.jpg) | ![](./photo/IMG_20260417_074428.jpg) | ![](./photo/IMG_20260417_074428.jpg) |
+| ![](./photo/IMG_20260417_075626.jpg) | ![](./photo/IMG_20260417_075727.jpg) | ![](./photo/IMG_20260417_075521.jpg) | ![](./photo/IMG_20260417_080358.jpg) |
+| ![](./photo/IMG_20260417_075304.jpg) | ![](./photo/IMG_20260417_075749.jpg) |   |   |
 
 >  Zamówienie zostało zrealizowane w zakresie dostawy i montażu, a przekazane elementy zostały wydane do użytkowania. Sporządzona dokumentacja zdjęciowa z dnia realizacji nie potwierdza występowania wskazanych w zgłoszeniu nieprawidłowości w przedstawionym zakresie. 
 
