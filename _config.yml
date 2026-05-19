@@ -1,2 +1,6 @@
 
 theme: minima
+plugins:
+  - jekyll-sitemap
+url: "https://pandlab.github.io"
+baseurl: "/meblowanko-opinie/"
