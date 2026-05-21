@@ -37,8 +37,8 @@ https://meblowanko.pl/
 # Reklamacja A04032026 z dnia 16.04.2026
 
 
-|  |  |  |  |
-|--|--|--|--|
+|  |  |
+|--|--|
 | ![](./photo/IMG_20260416_143205.jpg) | ![](./photo/IMG_20260416_151542.jpg) |
 | ![](./photo/IMG_20260416_140217.jpg) | ![](./photo/IMG_20260416_151556.jpg) |
 
@@ -48,8 +48,8 @@ Całość - [Re_Reklamacja_zamówienia_A04032026_z_dnia_16042026r.pdf](./Re_Rekl
 
 # Reklamacja A04032026 z dnia 06.05.2026r
 
-|  |  |  |  |
-|--|--|--|--|
+|  |  |
+|--|--|
 | ![](./photo/IMG_20260416_143006.jpg) | ![](./photo/IMG_20260417_080101.jpg) |
 | ![](./photo/IMG_20260417_075021.jpg) | ![](./photo/IMG_20260417_074754.jpg) |
 | ![](./photo/IMG_20260416_084042-crop.jpg) | ![](./photo/IMG_20260417_080002.jpg) |
