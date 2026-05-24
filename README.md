@@ -1,5 +1,5 @@
 
-# [http://meblowanko-opinie.pl/](http://meblowanko-opinie.pl/)
+# [http://www.meblowanko-opinie.pl/](http://www.meblowanko-opinie.pl/)
 
 Sprawdź opinie o meblowanko Sp. z o.o. Chrząstowice. Zobacz rzeczywiste zdjęcia realizacji, informacje o jakości wykonania, reklamacjach, terminach dostaw oraz podejściu firmy do obsługi i montażu.
 
