@@ -1,5 +1,8 @@
 
-[http://meblowanko-opinie.pl/](http://meblowanko-opinie.pl/)
+# [http://meblowanko-opinie.pl/](http://meblowanko-opinie.pl/)
+
+Sprawdź opinie o meblowanko Sp. z o.o. Chrząstowice. Zobacz rzeczywiste zdjęcia realizacji, informacje o jakości wykonania, reklamacjach, terminach dostaw oraz podejściu firmy do obsługi i montażu.
+
 
 # Spis treści
 - [Przedmiot zamówienia](#przedmiot-zamówienia)
@@ -16,6 +19,7 @@ MEBLOWANKO – Warunki Realizacji Zamówienia
 Przedmiotem zamówienia jest wykonanie, dostawa oraz montaż mebli realizowanych na
 indywidualne zamówienie Zamawiającego, zgodnie ze specyfikacją zamówienia.
 ```
+Całość - [MEBLOWANKO – Warunki Realizacji Zamówienia.pdf](./pdf/MEBLOWANKO – Warunki Realizacji Zamówienia.pdf)
 
 Realizacja:
 ```
