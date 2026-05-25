@@ -3,6 +3,7 @@
 
 Sprawdź opinie o meblowanko Sp. z o.o. Chrząstowice. Zobacz rzeczywiste zdjęcia, informacje o jakości wykonania, reklamacjach, terminach dostaw oraz podejściu firmy do obsługi i montażu.
 
+[meblowanko on Google Maps](https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLdLLG_pVEEcR1ZhxcRKMtH4)
 
 # Spis treści
 - [Przedmiot zamówienia](#przedmiot-zamówienia)
