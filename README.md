@@ -76,48 +76,48 @@ Cokół jest za krótki, nie został zamontowany, a jedynie położony luzem. Z 
 Jeżeli prace nie zostały zakończone - wymaga to dokończenia zgodnie z zamówieniem. Jeżeli natomiast Spółka uznaje realizację za zakończoną, oznacza to świadome pozostawienie wady, co może stanowić podstawę do dalszych działań karnych oraz potwierdza akceptacje kompetencji monterów, którzy pozostawili taką dziurę bez zaprotokołowania
 Oczekuję wykonania zgodnie z wymiarami wynikającymi z zamówienia oraz prawidłowego montażu z użyciem odpowiedniego łącznika.
 Przykład:
-![](./photo/IMG_20260416_143006.jpg)
+![](./photo/reklamacja2/IMG_20260416_143006.jpg)
 
 Elementy zabudowy są nierówne - fronty, szuflady, szafy i szafki nie są prawidłowo spasowane.
 Oczekuję wyrównania całości oraz usunięcia wad montażowych. Zwracam uwagę, że elementy były wbijane na siłę, co może wymagać również korekty korpusów.
 Przykład:
-![](./photo/IMG_20260417_080101.jpg)
-![](./photo/IMG_20260417_075021.jpg)
+![](./photo/reklamacja2/IMG_20260417_080101.jpg)
+![](./photo/reklamacja2/IMG_20260417_075021.jpg)
 
 W trakcie montażu została uszkodzona ściana.
 Oczekuję przywrócenia ściany do stanu pierwotnego albo rekompensaty finansowej w wysokości 1200 zł.
 Przykład: 
-![](./photo/IMG_20260417_074754.jpg)
-![](./photo/IMG_20260416_084042-crop.jpg)
+![](./photo/reklamacja2/IMG_20260417_074754.jpg)
+![](./photo/reklamacja2/IMG_20260416_084042-crop.jpg)
 
 Otwór pod uchwyt sportowy został wykonany nieprawidłowo - w formie nieregularnej „ósemki”, z dodatkowymi uszkodzeniami wokół.
 Oczekuję wymiany płyty oraz wykonania prawidłowego otworu.
 Przykład: 
-![](./photo/IMG_20260417_080002.jpg)
+![](./photo/reklamacja2/IMG_20260417_080002.jpg)
 
 Fronty są zabrudzone i nie odpowiadają stanowi nowego produktu w tym widoczne są tłuste odciski.
 Oczekuję doprowadzenia frontów do stanu odpowiadającego nowym meblom. Co może uwydatnić kolejne wady.
 Przykład 
-![](./photo/IMG_20260417_074428.jpg)
-![](./photo/IMG_20260417_074428.jpg)
-![](./photo/IMG_20260417_075626.jpg)
-![](./photo/IMG_20260417_075727.jpg)
+![](./photo/reklamacja2/IMG_20260417_074428.jpg)
+![](./photo/reklamacja2/IMG_20260417_074428.jpg)
+![](./photo/reklamacja2/IMG_20260417_075626.jpg)
+![](./photo/reklamacja2/IMG_20260417_075727.jpg)
 
 Korpusy są krzywo osadzone względem siebie.
 W przypadku braku możliwości trwałej naprawy oczekuję odpowiedniego obniżenia ceny.
 Przykład 
-![](./photo/IMG_20260417_075521.jpg)
+![](./photo/reklamacja2/IMG_20260417_075521.jpg)
 
 Wewnątrz szuflad i szafek pozostawiono resztki po montażu.
 Oczekuję uprzątnięcia i doprowadzenia mebli do właściwego stanu.
 Przykład 
-![](./photo/IMG_20260417_080358.jpg)
-![](./photo/IMG_20260417_075304.jpg)
+![](./photo/reklamacja2/IMG_20260417_080358.jpg)
+![](./photo/reklamacja2/IMG_20260417_075304.jpg)
 
 Płyty i fronty posiadają odpryski.
 Oczekuję wymiany uszkodzonych elementów na nowe, wolne od wad.
 Przykład 
-![](./photo/IMG_20260417_075749.jpg)
+![](./photo/reklamacja2/IMG_20260417_075749.jpg)
 
 # Jakość pakowania przesyłek:
 
