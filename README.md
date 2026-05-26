@@ -44,8 +44,8 @@ https://meblowanko.pl/
 
 |  |  |
 |--|--|
-| ![](./photo/IMG_20260416_143205.jpg) | ![](./photo/IMG_20260416_151542.jpg) |
-| ![](./photo/IMG_20260416_140217.jpg) | ![](./photo/IMG_20260416_151556.jpg) |
+| ![](./photo/reklamacja1/IMG_20260416_143205.jpg) | ![](./photo/reklamacja1/IMG_20260416_151542.jpg) |
+| ![](./photo/reklamacja1/IMG_20260416_140217.jpg) | ![](./photo/reklamacja1/IMG_20260416_151556.jpg) |
 
 > Reklamacja została odrzucona z uwagi na brak podstaw do jej uznania.
 
@@ -55,13 +55,13 @@ Całość - [Re_Reklamacja_zamówienia_A04032026_z_dnia_16042026r.pdf](./Re_Rekl
 
 |  |  |
 |--|--|
-| ![](./photo/IMG_20260416_143006.jpg) | ![](./photo/IMG_20260417_080101.jpg) |
-| ![](./photo/IMG_20260417_075021.jpg) | ![](./photo/IMG_20260417_074754.jpg) |
-| ![](./photo/IMG_20260416_084042-crop.jpg) | ![](./photo/IMG_20260417_080002.jpg) |
-| ![](./photo/IMG_20260417_074428.jpg) | ![](./photo/IMG_20260417_074428.jpg) |
-| ![](./photo/IMG_20260417_075626.jpg) | ![](./photo/IMG_20260417_075727.jpg) |
-| ![](./photo/IMG_20260417_075521.jpg) | ![](./photo/IMG_20260417_080358.jpg) |
-| ![](./photo/IMG_20260417_075304.jpg) | ![](./photo/IMG_20260417_075749.jpg) |
+| ![](./photo/reklamacja2/IMG_20260416_143006.jpg) | ![](./photo/reklamacja2/IMG_20260417_080101.jpg) |
+| ![](./photo/reklamacja2/IMG_20260417_075021.jpg) | ![](./photo/reklamacja2/IMG_20260417_074754.jpg) |
+| ![](./photo/reklamacja2/IMG_20260416_084042-crop.jpg) | ![](./photo/reklamacja2/IMG_20260417_080002.jpg) |
+| ![](./photo/reklamacja2/IMG_20260417_074428.jpg) | ![](./photo/reklamacja2/IMG_20260417_074428.jpg) |
+| ![](./photo/reklamacja2/IMG_20260417_075626.jpg) | ![](./photo/reklamacja2/IMG_20260417_075727.jpg) |
+| ![](./photo/reklamacja2/IMG_20260417_075521.jpg) | ![](./photo/reklamacja2/IMG_20260417_080358.jpg) |
+| ![](./photo/reklamacja2/IMG_20260417_075304.jpg) | ![](./photo/reklamacja2/IMG_20260417_075749.jpg) |
 
 
 >  Zamówienie zostało zrealizowane w zakresie dostawy i montażu, a przekazane elementy zostały wydane do użytkowania. Sporządzona dokumentacja zdjęciowa z dnia realizacji nie potwierdza występowania wskazanych w zgłoszeniu nieprawidłowości w przedstawionym zakresie. 
