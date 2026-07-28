@@ -10,7 +10,7 @@ Sprawdź opinie o meblowanko Sp. z o.o. Chrząstowice. Zobacz rzeczywiste zdjęc
 - [Reklamacja A04032026 z dnia 16.04.2026](#reklamacja-a04032026-z-dnia-16042026)
 - [Reklamacja A04032026 z dnia 06.05.2026](#reklamacja-a04032026-z-dnia-06052026r)
   - [Niektóre wskazane wady](#dodatkowo-stwierdzono-liczne-wady-wykonania-oraz-uszkodzenia-po-pierwszym-dniu-montarzu)
-- [Prokuratura](#Prokuratura)
+- [Prokuratura](#prokuratura)
 - [Jakość pakowanie przesyłek](#jako%C5%9B%C4%87-pakowania-przesy%C5%82ek)
 - [KRS](#krs-itp)
 
