@@ -10,8 +10,8 @@ Sprawdź opinie o meblowanko Sp. z o.o. Chrząstowice. Zobacz rzeczywiste zdjęc
 - [Reklamacja A04032026 z dnia 16.04.2026](#reklamacja-a04032026-z-dnia-16042026)
 - [Reklamacja A04032026 z dnia 06.05.2026](#reklamacja-a04032026-z-dnia-06052026r)
   - [Niektóre wskazane wady](#dodatkowo-stwierdzono-liczne-wady-wykonania-oraz-uszkodzenia-po-pierwszym-dniu-montarzu)
-- [Prokuratura](#prokuratura)
 - [Jakość pakowanie przesyłek](#jako%C5%9B%C4%87-pakowania-przesy%C5%82ek)
+- [Prokuratura](#prokuratura)
 - [KRS](#krs-itp)
 
 # Przedmiot zamówienia
@@ -130,7 +130,7 @@ Przykład
 
 # Prokuratura
 
-Osoby, które uważają, że mogą być pokrzywdzone w podobnej sprawie lub posiadają istotne informacje, mogą powołać się na postępowanie prowadzone przez Prokuraturę Rejonową Toruń Centrum–Zachód numer sprawy 4074-4.DS.1623.2026
+Osoby, które uważają, że mogą być pokrzywdzone w podobnej sprawie lub posiadają istotne informacje, mogą powołać się na postępowanie prowadzone przez Prokuraturę Rejonową Toruń Centrum–Zachód sygn. akt: 4074 – 4.Ds.2179.2026
 
 # KRS itp.
 
