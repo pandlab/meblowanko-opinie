@@ -7,7 +7,7 @@ Sprawdź opinie o meblowanko Sp. z o.o. Chrząstowice. Zobacz rzeczywiste zdjęc
 
 [dodaj opinie na fixly](https://fixly.pl/profil/meblowanko/dodaj-opinie)
 
-
+![](./photo/fixly/IMG_20260812_142915.jpg)
 
 # Spis treści
 - [Przedmiot zamówienia](#przedmiot-zamówienia)
