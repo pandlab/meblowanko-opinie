@@ -140,6 +140,8 @@ Osoby, które uważają, że mogą być pokrzywdzone w podobnej sprawie lub posi
 
 ## Odpis KRS
 
+https://wyszukiwarka-krs.ms.gov.pl/
+
 * [Odpis_Aktualny_KRS_0001211180 z dnia 2026-03-04](./Odpis_Aktualny_KRS_0001211180-20260304.pdf)
 * [Odpis_Aktualny_KRS_0001211180 z dnia 2026-05-11](./Odpis_Aktualny_KRS_0001211180-20260511.pdf)
 
