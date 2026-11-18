@@ -5,7 +5,7 @@ Sprawdź opinie o meblowanko Sp. z o.o. Chrząstowice. Zobacz rzeczywiste zdjęc
 
 Realizacja:
 
-| Adres                     | MEBLOWANKO SP. Z O.O.<br>ul. Śluzowa 4<br>46-053 Chrząstowice<br>NIP: 9910564230                                               |
+| Adres                     | MEBLOWANKO SP. Z O.O.<br>ul. Śluzowa 4<br>46-053 Chrząstowice<br>NIP: 9910564230<br>KRS: 0001211180<br>REGON: 543486025        |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Adres e-mail:             | kontakt@meblowanko.pl                                                                                                          |
 | Nr telefonu:              | +48 885 574 340                                                                                                                |
