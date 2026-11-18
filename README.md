@@ -3,34 +3,17 @@
 
 Sprawdź opinie o meblowanko Sp. z o.o. Chrząstowice. Zobacz rzeczywiste zdjęcia, informacje o jakości wykonania, reklamacjach, terminach dostaw oraz podejściu firmy do obsługi i montażu.
 
-[meblowanko on Google Maps](https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLdLLG_pVEEcR1ZhxcRKMtH4)
-
 Realizacja:
-```
-MEBLOWANKO SP. Z O.O.
-ul. Śluzowa 4
-46-053 Chrząstowice
-NIP: 9910564230
 
-Adres e-mail:
-kontakt@meblowanko.pl
-Nr telefonu:
-+48 885 574 340
-Strona www:
-https://meblowanko.pl/
-
-Allegro:
-https://allegro.pl/uzytkownik/meblowanko_pl/oceny
-ltq1valnd9@allegromail.pl
-+48 608 887 694
-
-Fixly:
-https://fixly.pl/profil/so7qmueg
-Dodaj opinie na fixly:
-https://fixly.pl/profil/meblowanko/dodaj-opinie
-```
-
-![](./photo/fixly/IMG_20260812_142915.jpg)
+| Adres                     | MEBLOWANKO SP. Z O.O.<br>ul. Śluzowa 4<br>46-053 Chrząstowice<br>NIP: 9910564230                  |
+| ------------------------- | ------------------------------------------------------------------------------------------------- |
+| Adres e-mail:             | kontakt@meblowanko.pl                                                                             |
+| Nr telefonu:              | +48 885 574 340                                                                                   |
+| Strona www:               | https://meblowanko.pl/                                                                            |
+| Allegro:                  | https://allegro.pl/uzytkownik/meblowanko_pl/oceny<br>+48 608 887 694<br>ltq1valnd9@allegromail.pl |
+| Fixly:                    | https://fixly.pl/profil/so7qmueg                                                                  |
+| Dodaj opinie na fixly:    | https://fixly.pl/profil/meblowanko/dodaj-opinie                                                   |
+| meblowanko on Google Maps | https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLdLLG_pVEEcR1ZhxcRKMtH4 |
 
 # Spis treści
 - [Przedmiot zamówienia](#przedmiot-zamówienia)
@@ -40,6 +23,8 @@ https://fixly.pl/profil/meblowanko/dodaj-opinie
 - [Jakość pakowanie przesyłek](#jako%C5%9B%C4%87-pakowania-przesy%C5%82ek)
 - [Prokuratura](#prokuratura)
 - [KRS](#krs-itp)
+
+![](./photo/fixly/IMG_20260812_142915.jpg)
 
 # Przedmiot zamówienia
 ```
