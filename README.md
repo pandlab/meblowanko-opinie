@@ -5,15 +5,15 @@ Sprawdź opinie o meblowanko Sp. z o.o. Chrząstowice. Zobacz rzeczywiste zdjęc
 
 Realizacja:
 
-| Adres                     | MEBLOWANKO SP. Z O.O.<br>ul. Śluzowa 4<br>46-053 Chrząstowice<br>NIP: 9910564230                  |
-| ------------------------- | ------------------------------------------------------------------------------------------------- |
-| Adres e-mail:             | kontakt@meblowanko.pl                                                                             |
-| Nr telefonu:              | +48 885 574 340                                                                                   |
-| Strona www:               | https://meblowanko.pl/                                                                            |
-| Allegro:                  | https://allegro.pl/uzytkownik/meblowanko_pl/oceny<br>+48 608 887 694<br>ltq1valnd9@allegromail.pl |
-| Fixly:                    | https://fixly.pl/profil/so7qmueg                                                                  |
-| Dodaj opinie na fixly:    | https://fixly.pl/profil/meblowanko/dodaj-opinie                                                   |
-| meblowanko on Google Maps | https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLdLLG_pVEEcR1ZhxcRKMtH4 |
+| Adres                     | MEBLOWANKO SP. Z O.O.<br>ul. Śluzowa 4<br>46-053 Chrząstowice<br>NIP: 9910564230                                                                 |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Adres e-mail:             | kontakt@meblowanko.pl                                                                                                                            |
+| Nr telefonu:              | +48 885 574 340                                                                                                                                  |
+| Strona www:               | https://meblowanko.pl/                                                                                                                           |
+| Allegro:                  | [użytkownik meblowanko_pl](https://allegro.pl/uzytkownik/meblowanko_pl/oceny)<br>+48 608 887 694<br>ltq1valnd9@allegromail.pl                    |
+| Fixly:                    | [https://fixly.pl/profil/so7qmueg](https://fixly.pl/profil/so7qmueg)<br>[Dodaj opinie na fixly](https://fixly.pl/profil/meblowanko/dodaj-opinie) |
+| meblowanko on Google Maps | [meblowanko on Google Maps](https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLdLLG_pVEEcR1ZhxcRKMtH4)                   |
+
 
 # Spis treści
 - [Przedmiot zamówienia](#przedmiot-zamówienia)
