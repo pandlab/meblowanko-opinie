@@ -5,7 +5,30 @@ Sprawdź opinie o meblowanko Sp. z o.o. Chrząstowice. Zobacz rzeczywiste zdjęc
 
 [meblowanko on Google Maps](https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLdLLG_pVEEcR1ZhxcRKMtH4)
 
-[profil na fixly](https://fixly.pl/profil/so7qmueg) i [dodaj opinie na fixly](https://fixly.pl/profil/meblowanko/dodaj-opinie)
+Realizacja:
+```
+MEBLOWANKO SP. Z O.O.
+ul. Śluzowa 4
+46-053 Chrząstowice
+NIP: 9910564230
+
+Adres e-mail:
+kontakt@meblowanko.pl
+Nr telefonu:
++48 885 574 340
+Strona www:
+https://meblowanko.pl/
+
+Allegro:
+https://allegro.pl/uzytkownik/meblowanko_pl/oceny
+ltq1valnd9@allegromail.pl
++48 608 887 694
+
+Fixly:
+https://fixly.pl/profil/so7qmueg
+Dodaj opinie na fixly:
+https://fixly.pl/profil/meblowanko/dodaj-opinie
+```
 
 ![](./photo/fixly/IMG_20260812_142915.jpg)
 
@@ -26,21 +49,6 @@ Przedmiotem zamówienia jest wykonanie, dostawa oraz montaż mebli realizowanych
 indywidualne zamówienie Zamawiającego, zgodnie ze specyfikacją zamówienia.
 ```
 Całość - [MEBLOWANKO – Warunki Realizacji Zamówienia.pdf](./pdf/MEBLOWANKO – Warunki Realizacji Zamówienia.pdf)
-
-Realizacja:
-```
-MEBLOWANKO SP. Z O.O.
-ul. Śluzowa 4
-46-053 Chrząstowice
-NIP: 9910564230
-
-Adres e-mail:
-kontakt@meblowanko.pl
-Nr telefonu:
-+48 885 574 340
-Strona www:
-https://meblowanko.pl/
-```
 
 [Zdjęcia](https://github.com/pandlab/meblowanko-opinie/tree/main/photo)
 
