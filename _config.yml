@@ -1,5 +1,5 @@
 
-theme: minima
+theme: jekyll-theme-primer # https://github.com/pages-themes/primer
 plugins:
   - jekyll-sitemap
 url: "https://meblowanko-opinie.pl"
