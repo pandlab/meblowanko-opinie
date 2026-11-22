@@ -13,8 +13,9 @@ Realizacja:
 | Nr telefonu:              | +48 885 574 340                                                                                                                |
 | Strona www:               | https://meblowanko.pl/                                                                                                         |
 | Allegro:                  | [użytkownik meblowanko_pl](https://allegro.pl/uzytkownik/meblowanko_pl/oceny)<br>+48 608 887 694<br>ltq1valnd9@allegromail.pl  |
-| Fixly (nieaktywne?):      | https://fixly.pl/profil/so7qmueg                                                                                               |
-|                           | https://fixly.pl/profil/meble-na-zamowienie<br>                                                                                |
+| Fixly (nieaktywne?):      | https://fixly.pl/c/so7qmueg                                                                                                    |
+|                           | https://fixly.pl/profil/so7qmueg                                                                                               |
+|                           | https://fixly.pl/profil/meble-na-zamowienie                                                                                    |
 |                           | https://fixly.pl/profil/meblowanko                                                                                             |
 |                           | Dodaj opinie na fixly https://fixly.pl/profil/meblowanko/dodaj-opinie                                                          |
 | meblowanko on Google Maps | [meblowanko on Google Maps](https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLdLLG_pVEEcR1ZhxcRKMtH4) |
