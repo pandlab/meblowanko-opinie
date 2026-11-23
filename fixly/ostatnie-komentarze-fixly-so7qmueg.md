@@ -40,11 +40,13 @@ Dane surowe: [provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/pro
 **Odpowiedź spółki** (ID: `67394`, 2026-08-14 16:56:46 UTC):
 > Przedstawiona opinia pomija istotne fakty. Przez kolejne miesiące, wielokrotnie, kontaktowaliśmy się z klientem, deklarując gotowość do wykonania serwisu i prosząc o wskazanie dogodnego terminu wizyty. Zamiast uzgodnić termin i doprowadzić sprawę do rozwiązania, klient konsekwentnie ją eskalował, kierując ją do kolejnych instytucji. Pełna korespondencja potwierdza nasze wielokrotne próby rozwiązania sprawy oraz gotowość do wykonania serwisu.
 
-|  |  |
-|--|--|
-| ![](/photo/fixlyFeedbacks/4181043-abf4fe007e088efdd971d799a6f36065.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-abf4fe007e088efdd971d799a6f36065.jpg` | ![](/photo/fixlyFeedbacks/4181043-610ca4e34ea151314d65475ca8b62a75.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-610ca4e34ea151314d65475ca8b62a75.jpg` |
-| ![](/photo/fixlyFeedbacks/4181043-1a03dffc81b2c1794929d72010f3e12b.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-1a03dffc81b2c1794929d72010f3e12b.jpg` | ![](/photo/fixlyFeedbacks/4181043-5473d41bf0efcc6c39da5e9399ad31ac.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-5473d41bf0efcc6c39da5e9399ad31ac.jpg` |
-| ![](/photo/fixlyFeedbacks/4181043-89061b4e788c216184e49addef7dac1e.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-89061b4e788c216184e49addef7dac1e.jpg` |  |
+|  |
+|--|
+| ![](/photo/fixlyFeedbacks/4181043-abf4fe007e088efdd971d799a6f36065.jpg)<br>[https://cdn.fixly.pl/feedback/4181043-abf4fe007e088efdd971d799a6f36065.jpg](https://cdn.fixly.pl/feedback/4181043-abf4fe007e088efdd971d799a6f36065.jpg) |
+| ![](/photo/fixlyFeedbacks/4181043-610ca4e34ea151314d65475ca8b62a75.jpg)<br>[https://cdn.fixly.pl/feedback/4181043-610ca4e34ea151314d65475ca8b62a75.jpg](https://cdn.fixly.pl/feedback/4181043-610ca4e34ea151314d65475ca8b62a75.jpg) |
+| ![](/photo/fixlyFeedbacks/4181043-1a03dffc81b2c1794929d72010f3e12b.jpg)<br>[https://cdn.fixly.pl/feedback/4181043-1a03dffc81b2c1794929d72010f3e12b.jpg](https://cdn.fixly.pl/feedback/4181043-1a03dffc81b2c1794929d72010f3e12b.jpg) |
+| ![](/photo/fixlyFeedbacks/4181043-5473d41bf0efcc6c39da5e9399ad31ac.jpg)<br>[https://cdn.fixly.pl/feedback/4181043-5473d41bf0efcc6c39da5e9399ad31ac.jpg](https://cdn.fixly.pl/feedback/4181043-5473d41bf0efcc6c39da5e9399ad31ac.jpg) |
+| ![](/photo/fixlyFeedbacks/4181043-89061b4e788c216184e49addef7dac1e.jpg)<br>[https://cdn.fixly.pl/feedback/4181043-89061b4e788c216184e49addef7dac1e.jpg](https://cdn.fixly.pl/feedback/4181043-89061b4e788c216184e49addef7dac1e.jpg) |
 
 ---
 
@@ -55,10 +57,12 @@ Dane surowe: [provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/pro
 **Odpowiedź spółki** (ID: `67395`, 2026-08-14 16:58:25 UTC):
 > Zamówienie zostało zrealizowane zgodnie ze specyfikacją zamówienia. Klient został poinformowany o możliwości dokupienia dodatkowych elementów za symboliczną opłatą. Co najmniej jedno zdjęcie, które zostało zamieszczone zostało wykonane przed zakończeniem prac.
 
-|  |  |
-|--|--|
-| ![](/photo/fixlyFeedbacks/974572-05989594e5416536f257da6cb00cf234.jpg)<br>`https://cdn.fixly.pl/feedback/974572-05989594e5416536f257da6cb00cf234.jpg` | ![](/photo/fixlyFeedbacks/974572-e73a9fbfd7d1dea76be559c2c0f0daac.jpg)<br>`https://cdn.fixly.pl/feedback/974572-e73a9fbfd7d1dea76be559c2c0f0daac.jpg` |
-| ![](/photo/fixlyFeedbacks/974572-1304087dd74c5d837a25ffc0086155ab.jpg)<br>`https://cdn.fixly.pl/feedback/974572-1304087dd74c5d837a25ffc0086155ab.jpg` | ![](/photo/fixlyFeedbacks/974572-b69376dae1c899d5bf14a99646ee2c90.jpg)<br>`https://cdn.fixly.pl/feedback/974572-b69376dae1c899d5bf14a99646ee2c90.jpg` |
+|  |
+|--|
+| ![](/photo/fixlyFeedbacks/974572-05989594e5416536f257da6cb00cf234.jpg)<br>[https://cdn.fixly.pl/feedback/974572-05989594e5416536f257da6cb00cf234.jpg](https://cdn.fixly.pl/feedback/974572-05989594e5416536f257da6cb00cf234.jpg) |
+| ![](/photo/fixlyFeedbacks/974572-e73a9fbfd7d1dea76be559c2c0f0daac.jpg)<br>[https://cdn.fixly.pl/feedback/974572-e73a9fbfd7d1dea76be559c2c0f0daac.jpg](https://cdn.fixly.pl/feedback/974572-e73a9fbfd7d1dea76be559c2c0f0daac.jpg) |
+| ![](/photo/fixlyFeedbacks/974572-1304087dd74c5d837a25ffc0086155ab.jpg)<br>[https://cdn.fixly.pl/feedback/974572-1304087dd74c5d837a25ffc0086155ab.jpg](https://cdn.fixly.pl/feedback/974572-1304087dd74c5d837a25ffc0086155ab.jpg) |
+| ![](/photo/fixlyFeedbacks/974572-b69376dae1c899d5bf14a99646ee2c90.jpg)<br>[https://cdn.fixly.pl/feedback/974572-b69376dae1c899d5bf14a99646ee2c90.jpg](https://cdn.fixly.pl/feedback/974572-b69376dae1c899d5bf14a99646ee2c90.jpg) |
 
 ---
 
@@ -70,7 +74,7 @@ Dane surowe: [provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/pro
 
 |  |
 |--|
-| ![](/photo/fixlyFeedbacks/4061190-9825c61d4309f6a3b3111b60d9d0b4ee.jpg)<br>`https://cdn.fixly.pl/feedback/4061190-9825c61d4309f6a3b3111b60d9d0b4ee.jpg` |
+| ![](/photo/fixlyFeedbacks/4061190-9825c61d4309f6a3b3111b60d9d0b4ee.jpg)<br>[https://cdn.fixly.pl/feedback/4061190-9825c61d4309f6a3b3111b60d9d0b4ee.jpg](https://cdn.fixly.pl/feedback/4061190-9825c61d4309f6a3b3111b60d9d0b4ee.jpg) |
 
 ---
 
@@ -81,11 +85,13 @@ Dane surowe: [provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/pro
 **Odpowiedź spółki** (ID: `64243`, 2026-04-30 06:27:37 UTC):
 > Opinia zasadniczo się zgadza, poza gwiazdkami :) Zrobiliśmy te piękne drzwi w zaledwie trzy dni i zrobiliśmy również montaż w rewelacyjnym czasie. Na pierwszym zdjęciu widzimy idealne spasowanie na zawiasach, dodatkowo zamontowaliśmy zawiasy, które wytrzymają wiele lat, moim zdaniem bardzo dobre wykonanie w jeszcze lepszym czasie :)
 
-|  |  |
-|--|--|
-| ![](/photo/fixlyFeedbacks/3967379-58522221d4514c2bde0536d04d8c2eaf.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-58522221d4514c2bde0536d04d8c2eaf.jpg` | ![](/photo/fixlyFeedbacks/3967379-b6c2a5f45a76c437f5d4c50835e45cdc.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-b6c2a5f45a76c437f5d4c50835e45cdc.jpg` |
-| ![](/photo/fixlyFeedbacks/3967379-050d9c0be738d994fee86f0b006cbe0e.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-050d9c0be738d994fee86f0b006cbe0e.jpg` | ![](/photo/fixlyFeedbacks/3967379-1b53c6bf30ab46cc80a59811da154a35.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-1b53c6bf30ab46cc80a59811da154a35.jpg` |
-| ![](/photo/fixlyFeedbacks/3967379-134dfff08f1a0002d95f6ecb472fd30e.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-134dfff08f1a0002d95f6ecb472fd30e.jpg` |  |
+|  |
+|--|
+| ![](/photo/fixlyFeedbacks/3967379-58522221d4514c2bde0536d04d8c2eaf.jpg)<br>[https://cdn.fixly.pl/feedback/3967379-58522221d4514c2bde0536d04d8c2eaf.jpg](https://cdn.fixly.pl/feedback/3967379-58522221d4514c2bde0536d04d8c2eaf.jpg) |
+| ![](/photo/fixlyFeedbacks/3967379-b6c2a5f45a76c437f5d4c50835e45cdc.jpg)<br>[https://cdn.fixly.pl/feedback/3967379-b6c2a5f45a76c437f5d4c50835e45cdc.jpg](https://cdn.fixly.pl/feedback/3967379-b6c2a5f45a76c437f5d4c50835e45cdc.jpg) |
+| ![](/photo/fixlyFeedbacks/3967379-050d9c0be738d994fee86f0b006cbe0e.jpg)<br>[https://cdn.fixly.pl/feedback/3967379-050d9c0be738d994fee86f0b006cbe0e.jpg](https://cdn.fixly.pl/feedback/3967379-050d9c0be738d994fee86f0b006cbe0e.jpg) |
+| ![](/photo/fixlyFeedbacks/3967379-1b53c6bf30ab46cc80a59811da154a35.jpg)<br>[https://cdn.fixly.pl/feedback/3967379-1b53c6bf30ab46cc80a59811da154a35.jpg](https://cdn.fixly.pl/feedback/3967379-1b53c6bf30ab46cc80a59811da154a35.jpg) |
+| ![](/photo/fixlyFeedbacks/3967379-134dfff08f1a0002d95f6ecb472fd30e.jpg)<br>[https://cdn.fixly.pl/feedback/3967379-134dfff08f1a0002d95f6ecb472fd30e.jpg](https://cdn.fixly.pl/feedback/3967379-134dfff08f1a0002d95f6ecb472fd30e.jpg) |
 
 ---
 
@@ -96,11 +102,13 @@ Dane surowe: [provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/pro
 **Odpowiedź spółki** (ID: `57958`, 2025-11-11 12:27:05 UTC):
 > Pana ocena ma bardzo luźny związek z rzeczywistością wobec czego zostanie zgłoszona jako pomówienie. Faktycznie, czasem jest ciężko odebrać telefon, natomiast zawsze oddzwaniamy, a co do terminu to Pan go przekładał, z uwagi na profesjonalizm, nie będziemy przytaczać szczegółów. Co do ścian, informowaliśmy że jeśli ściana ma grubość taką a nie inną to tak się wydarzy, nie jesteśmy winni, że obecnie mieszkania budowane są ze ścian 8cm. Wobec wszystkiego należy wspomnieć, że z uwagi na dobro relacji również udzieliliśmy Panu rabatu. Dodam, że nie wnosiliśmy mebli klatką schodową, a widną.
 
-|  |  |
-|--|--|
-| ![](/photo/fixlyFeedbacks/1088473-e04fac5e1dea183b52ea247d5b73add8.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-e04fac5e1dea183b52ea247d5b73add8.jpg` | ![](/photo/fixlyFeedbacks/1088473-cf56b887ae9c8f1e9c95e72823448c80.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-cf56b887ae9c8f1e9c95e72823448c80.jpg` |
-| ![](/photo/fixlyFeedbacks/1088473-500199d667e5960b4aff2ea221dd02c3.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-500199d667e5960b4aff2ea221dd02c3.jpg` | ![](/photo/fixlyFeedbacks/1088473-f2cac8b219a67e8ccef3b2f4895ebc88.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-f2cac8b219a67e8ccef3b2f4895ebc88.jpg` |
-| ![](/photo/fixlyFeedbacks/1088473-0126aedb298f7a14eebec45ddc7e9a97.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-0126aedb298f7a14eebec45ddc7e9a97.jpg` |  |
+|  |
+|--|
+| ![](/photo/fixlyFeedbacks/1088473-e04fac5e1dea183b52ea247d5b73add8.jpg)<br>[https://cdn.fixly.pl/feedback/1088473-e04fac5e1dea183b52ea247d5b73add8.jpg](https://cdn.fixly.pl/feedback/1088473-e04fac5e1dea183b52ea247d5b73add8.jpg) |
+| ![](/photo/fixlyFeedbacks/1088473-cf56b887ae9c8f1e9c95e72823448c80.jpg)<br>[https://cdn.fixly.pl/feedback/1088473-cf56b887ae9c8f1e9c95e72823448c80.jpg](https://cdn.fixly.pl/feedback/1088473-cf56b887ae9c8f1e9c95e72823448c80.jpg) |
+| ![](/photo/fixlyFeedbacks/1088473-500199d667e5960b4aff2ea221dd02c3.jpg)<br>[https://cdn.fixly.pl/feedback/1088473-500199d667e5960b4aff2ea221dd02c3.jpg](https://cdn.fixly.pl/feedback/1088473-500199d667e5960b4aff2ea221dd02c3.jpg) |
+| ![](/photo/fixlyFeedbacks/1088473-f2cac8b219a67e8ccef3b2f4895ebc88.jpg)<br>[https://cdn.fixly.pl/feedback/1088473-f2cac8b219a67e8ccef3b2f4895ebc88.jpg](https://cdn.fixly.pl/feedback/1088473-f2cac8b219a67e8ccef3b2f4895ebc88.jpg) |
+| ![](/photo/fixlyFeedbacks/1088473-0126aedb298f7a14eebec45ddc7e9a97.jpg)<br>[https://cdn.fixly.pl/feedback/1088473-0126aedb298f7a14eebec45ddc7e9a97.jpg](https://cdn.fixly.pl/feedback/1088473-0126aedb298f7a14eebec45ddc7e9a97.jpg) |
 
 ---
 
@@ -113,7 +121,7 @@ Dane surowe: [provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/pro
 
 |  |
 |--|
-| ![](/photo/fixlyFeedbacks/3627674-6ce2c152c519a5bca62fd7f7d17c3426.jpg)<br>`https://cdn.fixly.pl/gallery/3627674-6ce2c152c519a5bca62fd7f7d17c3426.jpg` |
+| ![](/photo/fixlyFeedbacks/3627674-6ce2c152c519a5bca62fd7f7d17c3426.jpg)<br>[https://cdn.fixly.pl/gallery/3627674-6ce2c152c519a5bca62fd7f7d17c3426.jpg](https://cdn.fixly.pl/gallery/3627674-6ce2c152c519a5bca62fd7f7d17c3426.jpg) |
 
 ---
 
@@ -125,10 +133,12 @@ Dane surowe: [provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/pro
 > Ślicznie dziękuję za poświęcony czas na wystawienie opinii.
 > To budujące, gdy klienci doceniają zaangażowanie, praca dla WAS to czysta przyjemność :)
 
-|  |  |
-|--|--|
-| ![](/photo/fixlyFeedbacks/2268275-e1a111519ec3c967a279e77750b4a591.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-e1a111519ec3c967a279e77750b4a591.jpg` | ![](/photo/fixlyFeedbacks/2268275-3fe484590292299b1a0c1bc54c886193.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-3fe484590292299b1a0c1bc54c886193.jpg` |
-| ![](/photo/fixlyFeedbacks/2268275-e8213077a29c364af0d687c652058b5a.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-e8213077a29c364af0d687c652058b5a.jpg` | ![](/photo/fixlyFeedbacks/2268275-77dd48033f201b0ff0d9449cea13c2de.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-77dd48033f201b0ff0d9449cea13c2de.jpg` |
+|  |
+|--|
+| ![](/photo/fixlyFeedbacks/2268275-e1a111519ec3c967a279e77750b4a591.jpg)<br>[https://cdn.fixly.pl/feedback/2268275-e1a111519ec3c967a279e77750b4a591.jpg](https://cdn.fixly.pl/feedback/2268275-e1a111519ec3c967a279e77750b4a591.jpg) |
+| ![](/photo/fixlyFeedbacks/2268275-3fe484590292299b1a0c1bc54c886193.jpg)<br>[https://cdn.fixly.pl/feedback/2268275-3fe484590292299b1a0c1bc54c886193.jpg](https://cdn.fixly.pl/feedback/2268275-3fe484590292299b1a0c1bc54c886193.jpg) |
+| ![](/photo/fixlyFeedbacks/2268275-e8213077a29c364af0d687c652058b5a.jpg)<br>[https://cdn.fixly.pl/feedback/2268275-e8213077a29c364af0d687c652058b5a.jpg](https://cdn.fixly.pl/feedback/2268275-e8213077a29c364af0d687c652058b5a.jpg) |
+| ![](/photo/fixlyFeedbacks/2268275-77dd48033f201b0ff0d9449cea13c2de.jpg)<br>[https://cdn.fixly.pl/feedback/2268275-77dd48033f201b0ff0d9449cea13c2de.jpg](https://cdn.fixly.pl/feedback/2268275-77dd48033f201b0ff0d9449cea13c2de.jpg) |
 
 ---
 
@@ -140,7 +150,7 @@ Dane surowe: [provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/pro
 
 |  |
 |--|
-| ![](/photo/fixlyFeedbacks/3237528-4e5254b1d338dd207d2e6e63f24da194.jpg)<br>`https://cdn.fixly.pl/feedback/3237528-4e5254b1d338dd207d2e6e63f24da194.jpg` |
+| ![](/photo/fixlyFeedbacks/3237528-4e5254b1d338dd207d2e6e63f24da194.jpg)<br>[https://cdn.fixly.pl/feedback/3237528-4e5254b1d338dd207d2e6e63f24da194.jpg](https://cdn.fixly.pl/feedback/3237528-4e5254b1d338dd207d2e6e63f24da194.jpg) |
 
 ---
 
@@ -153,8 +163,10 @@ Dane surowe: [provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/pro
 > Zdjęcie numer dwa - przed zamówieniem informowałem, że takie historie mogą mieć miejsce z uwagi na fakt że budynek przez wykonawce został bardzo źle postawiony, ściany każda ucieka z kąta, natomiast odchyły od pionu na ścianach wynoszą nawet 3cm.
 > Zdjęcie numer trzy cztery oraz pięć to ja nie wiem co się działo po moim odjeżdzie, usterek nie było a wyciecie w blacie nie stanowiło przedmiotu umowy, kto co tam rzeźbił później to ja nie wiem. Nie polecam współpracy.
 
-|  |  |
-|--|--|
-| ![](/photo/fixlyFeedbacks/2790458-382c27ca75ecb7ccafc1700aae9f3762.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-382c27ca75ecb7ccafc1700aae9f3762.jpg` | ![](/photo/fixlyFeedbacks/2790458-07d7d31bf07e144440a32e3281607c77.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-07d7d31bf07e144440a32e3281607c77.jpg` |
-| ![](/photo/fixlyFeedbacks/2790458-11c4cc6e013666c76cd196a9ecd0f8e8.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-11c4cc6e013666c76cd196a9ecd0f8e8.jpg` | ![](/photo/fixlyFeedbacks/2790458-e260e481c4be474495130768938e4744.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-e260e481c4be474495130768938e4744.jpg` |
-| ![](/photo/fixlyFeedbacks/2790458-1a48ef11106ca6d03387e966f47bc5f6.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-1a48ef11106ca6d03387e966f47bc5f6.jpg` |  |
+|  |
+|--|
+| ![](/photo/fixlyFeedbacks/2790458-382c27ca75ecb7ccafc1700aae9f3762.jpg)<br>[https://cdn.fixly.pl/feedback/2790458-382c27ca75ecb7ccafc1700aae9f3762.jpg](https://cdn.fixly.pl/feedback/2790458-382c27ca75ecb7ccafc1700aae9f3762.jpg) |
+| ![](/photo/fixlyFeedbacks/2790458-07d7d31bf07e144440a32e3281607c77.jpg)<br>[https://cdn.fixly.pl/feedback/2790458-07d7d31bf07e144440a32e3281607c77.jpg](https://cdn.fixly.pl/feedback/2790458-07d7d31bf07e144440a32e3281607c77.jpg) |
+| ![](/photo/fixlyFeedbacks/2790458-11c4cc6e013666c76cd196a9ecd0f8e8.jpg)<br>[https://cdn.fixly.pl/feedback/2790458-11c4cc6e013666c76cd196a9ecd0f8e8.jpg](https://cdn.fixly.pl/feedback/2790458-11c4cc6e013666c76cd196a9ecd0f8e8.jpg) |
+| ![](/photo/fixlyFeedbacks/2790458-e260e481c4be474495130768938e4744.jpg)<br>[https://cdn.fixly.pl/feedback/2790458-e260e481c4be474495130768938e4744.jpg](https://cdn.fixly.pl/feedback/2790458-e260e481c4be474495130768938e4744.jpg) |
+| ![](/photo/fixlyFeedbacks/2790458-1a48ef11106ca6d03387e966f47bc5f6.jpg)<br>[https://cdn.fixly.pl/feedback/2790458-1a48ef11106ca6d03387e966f47bc5f6.jpg](https://cdn.fixly.pl/feedback/2790458-1a48ef11106ca6d03387e966f47bc5f6.jpg) |
