@@ -7,18 +7,25 @@ Sprawdź opinie o meblowanko Sp. z o.o. Chrząstowice. Zobacz rzeczywiste zdjęc
 
 Realizacja:
 
-| Adres                     | MEBLOWANKO SP. Z O.O.<br>ul. Śluzowa 4<br>46-053 Chrząstowice<br>NIP: 9910564230<br>KRS: 0001211180<br>REGON: 543486025        |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Adres e-mail:             | kontakt@meblowanko.pl                                                                                                          |
-| Nr telefonu:              | +48 885 574 340                                                                                                                |
-| Strona www:               | https://meblowanko.pl/                                                                                                         |
-| Allegro:                  | [użytkownik meblowanko_pl](https://allegro.pl/uzytkownik/meblowanko_pl/oceny)<br>+48 608 887 694<br>ltq1valnd9@allegromail.pl  |
-| Fixly (nieaktywne?):      | https://fixly.pl/c/so7qmueg                                                                                                    |
-|                           | https://fixly.pl/profil/so7qmueg                                                                                               |
-|                           | https://fixly.pl/profil/meble-na-zamowienie                                                                                    |
-|                           | https://fixly.pl/profil/meblowanko                                                                                             |
-|                           | Dodaj opinie na fixly https://fixly.pl/profil/meblowanko/dodaj-opinie                                                          |
-| meblowanko on Google Maps | [meblowanko on Google Maps](https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLdLLG_pVEEcR1ZhxcRKMtH4) |
+| Adres                            |                | MEBLOWANKO SP. Z O.O.<br>ul. Śluzowa 4<br>46-053 Chrząstowice<br>NIP: 9910564230<br>KRS: 0001211180<br>REGON: 543486025        |
+| -------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| meblowanko on Google Maps        |                | [meblowanko on Google Maps](https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLdLLG_pVEEcR1ZhxcRKMtH4) |
+| Strona www:                      |                | https://meblowanko.pl/                                                                                                         |
+| Allegro:                         |                | [użytkownik meblowanko_pl](https://allegro.pl/uzytkownik/meblowanko_pl/oceny)                                                  |
+|                                  | Nr telefonu:   | +48 608 887 694                                                                                                                |
+|                                  | Adres e-mail:  | ltq1valnd9@allegromail.pl                                                                                                      |
+| Fixly (aktywne od 2026.11):      | dateRegistered | 2026-11-17T06:51:30.000Z                                                                                                       |
+|                                  | profil         | [https://fixly.pl/profil/6a9npa0e](https://fixly.pl/profil/6a9npa0e)                                                           |
+|                                  | Nr telefonu:   | +48 888 992 340                                                                                                                |
+|                                  | Adres e-mail:  | biuro@meblowanko.pl                                                                                                            |
+|                                  |                | [https://fixly.pl/profil/6a9npa0e/dodaj-opinie](https://fixly.pl/profil/6a9npa0e/dodaj-opinie)                                 |
+| Fixly (nieaktywne od 2026.11):   | dateRegistered | 2023-12-03T13:02:59.000Z                                                                                                       |
+|                                  | profil         | https://fixly.pl/profil/so7qmueg                                                                                               |
+|                                  | Nr telefonu:   | +48 885 574 340                                                                                                                |
+|                                  | Adres e-mail:  | kontakt@meblowanko.pl                                                                                                          |
+|                                  | profil         | https://fixly.pl/profil/meble-na-zamowienie                                                                                    |
+|                                  | profil         | https://fixly.pl/profil/meblowanko                                                                                             |
+|                                  | lastActivity   | 2026-11-16T20:42:06.000Z                                                                                                       |
 
 # Spis treści
 - [Ostatnie pobrane komentarze ze zdjęciami (stan na 20 listopada 2026)](#ostatnie-pobrane-komentarze-ze-zdjęciami-stan-na-20-listopada-2026)

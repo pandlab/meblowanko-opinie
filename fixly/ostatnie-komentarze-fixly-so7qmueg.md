@@ -4,7 +4,7 @@
 
 > kontakt@fixly.pl : Jeżeli dany profil nie istnieje, a konwersacja z nim nie jest już widoczna, może oznaczać to tylko jedną sytuację - wykonawca usunął swoje konto i wszystkie dane z nim związane z serwisu Fixly.
 
-Dane [https://www.meblowanko-opinie.pl/fixly/provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/provider_so7qmueg.json)
+Dane surowe: [https://www.meblowanko-opinie.pl/fixly/provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/provider_so7qmueg.json)
 
 ```
       "yearEstablished": 2020,
