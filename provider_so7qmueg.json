@@ -1,0 +1,531 @@
+{
+  "data": {
+    "profileBySlug": {
+      "id": "2849647",
+      "slug": "so7qmueg",
+      "slugAlias": "meble-na-zamowienie",
+      "publicName": "MEBLE NA ZAMÓWIENIE",
+      "firstName": "MEBLE",
+      "lastName": "NA ZAMÓWIENIE",
+      "gender": "1",
+      "avatarUrl": "https://cdn.fixly.pl/avatar/2849647-8d25470b3fcdbfe25c3dbe80fb7ed93b.jpg",
+      "coverUrl": "https://cdn.fixly.pl/cover/2849647-6e7447b4d3c3a7692bc8f96dfb6c2d90.jpg",
+      "address": "",
+      "maskedPhone": " +48XXXXXXXXX ",
+      "email": "kontakt@meblowanko.pl",
+      "isEmailPublic": false,
+      "websiteUrl": null,
+      "socialMediaUrl": null,
+      "seoDescription": "MEBLE NA ZAMÓWIENIE - świadczę usługi w 15 kategoriach. Opole, ostatnio online - 16.11.2026",
+      "shortDescription": "MEBLE NA ZAMÓWIENIE DOSTĘPNEJ W CAŁEJ POLSCE Z DOSTAWĄ",
+      "longDescription": null,
+      "rewardsAndCertificates": null,
+      "yearEstablished": 2020,
+      "yearsOfExperience": 6,
+      "radius": 300000,
+      "dateRegistered": "2023-12-03T13:02:59.000Z",
+      "lastActivity": "2026-11-16T20:42:06.000Z",
+      "featured": true,
+      "isNewcomer": false,
+      "isPayWithFixlyRegistered": false,
+      "phoneVerified": true,
+      "emailVerified": true,
+      "rating": 4.5,
+      "feedbacksCount": 92,
+      "feedbackClientsCount": 53,
+      "avgResponseTime": null,
+      "avgResponseTimeSeconds": null,
+      "city": {
+        "id": "12885",
+        "name": "Opole",
+        "slug": "opole",
+        "lat": 50.66987,
+        "long": 17.91934,
+        "region": {
+          "id": "12",
+          "name": "Opolskie"
+        }
+      },
+      "location": {
+        "latitude": 50.66987,
+        "longitude": 17.91934
+      },
+      "company": {
+        "id": "83108",
+        "nip": "9910564230",
+        "name": "MEBLOWANKO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "contactName": null,
+        "address": "ul. Śluzowa 4, 46-053 Chrząstowice",
+        "foundationDate": "2025-12-11T00:00:00.000Z",
+        "verificationStatus": "VERIFIED"
+      },
+      "badges": [
+        {
+          "id": "YearsOfExperience",
+          "title": "6 lat doświadczenia",
+          "tooltip": "<strong>MEBLE NA ZAMÓWIENIE</strong> świadczy usługi od 2020 roku"
+        },
+        {
+          "id": "VerifiedCompany",
+          "title": "Dane firmy sprawdzone w GUS",
+          "tooltip": null
+        },
+        {
+          "id": "TimeOnFixly",
+          "title": "3 lata na Fixly",
+          "tooltip": null
+        }
+      ],
+      "services": [
+        {
+          "id": "1395",
+          "name": "Kuchnia na wymiar",
+          "slug": "zlecenia-kuchnia-na-wymiar",
+          "l4Categories": [
+            {
+              "id": "1395",
+              "name": "Meble kuchenne na wymiar",
+              "slug": "meble-kuchenne-na-wymiar"
+            }
+          ]
+        },
+        {
+          "id": "2010",
+          "name": "Meble na wymiar",
+          "slug": "zlece-wykonanie-mebli",
+          "l4Categories": [
+            {
+              "id": "2110",
+              "name": "Meble na wymiar",
+              "slug": "meble-na-wymiar"
+            },
+            {
+              "id": "2111",
+              "name": "Meble łazienkowe na wymiar",
+              "slug": "meble-lazienkowe-na-wymiar"
+            }
+          ]
+        },
+        {
+          "id": "1393",
+          "name": "Montaż mebli",
+          "slug": "zlecenia-montaz-mebli",
+          "l4Categories": [
+            {
+              "id": "1393",
+              "name": "Montaż mebli",
+              "slug": "montaz-mebli"
+            },
+            {
+              "id": "2511",
+              "name": "Skręcanie mebli",
+              "slug": "skrecanie-mebli"
+            },
+            {
+              "id": "2512",
+              "name": "Wieszanie szafek kuchennych",
+              "slug": "wieszanie-szafek-kuchennych"
+            }
+          ]
+        },
+        {
+          "id": "1377",
+          "name": "Szafy na wymiar",
+          "slug": "zlecenia-szafy-na-wymiar",
+          "l4Categories": [
+            {
+              "id": "1377",
+              "name": "Szafy na wymiar",
+              "slug": "szafy-na-wymiar"
+            }
+          ]
+        },
+        {
+          "id": "1394",
+          "name": "Usługi stolarskie",
+          "slug": "zlecenia-stolarskie",
+          "l4Categories": [
+            {
+              "id": "2488",
+              "name": "Stolarnia",
+              "slug": "stolarnia"
+            },
+            {
+              "id": "2487",
+              "name": "Kuchnia na wymiar",
+              "slug": "kuchnia-na-wymiar"
+            },
+            {
+              "id": "2486",
+              "name": "Fronty meblowe na wymiar",
+              "slug": "fronty-meblowe-na-wymiar"
+            },
+            {
+              "id": "2485",
+              "name": "Blaty kuchenne na wymiar",
+              "slug": "blaty-kuchenne-na-wymiar"
+            },
+            {
+              "id": "1394",
+              "name": "Stolarz",
+              "slug": "pozostale-uslugi-stolarskie"
+            }
+          ]
+        }
+      ],
+      "gallery": [
+        {
+          "id": "6229397",
+          "title": "Przedpokój",
+          "url": "https://cdn.fixly.pl/gallery/2849647-b9fc472eb79d78c379b3f00e430cdac2.jpg"
+        },
+        {
+          "id": "6229405",
+          "title": "Przedpokój",
+          "url": "https://cdn.fixly.pl/gallery/2849647-e0f1ff1a3187c85284096d14f23c9fd7.jpg"
+        },
+        {
+          "id": "6229404",
+          "title": "Przedpokój",
+          "url": "https://cdn.fixly.pl/gallery/2849647-e1f340bfc9d9b3508959667e71719bc0.jpg"
+        },
+        {
+          "id": "6229398",
+          "title": "Sugestia co możemy montować w szafach",
+          "url": "https://cdn.fixly.pl/gallery/2849647-ac02359e90bf3c4c20690fc223dae18b.jpg"
+        },
+        {
+          "id": "6229399",
+          "title": "Szafa",
+          "url": "https://cdn.fixly.pl/gallery/2849647-a5e0b2859e3343810ea9d0506e225f2b.jpg"
+        },
+        {
+          "id": "6229400",
+          "title": "Szafa",
+          "url": "https://cdn.fixly.pl/gallery/2849647-f0c27c77bb2b3ad538b94f83768f3ac1.jpg"
+        },
+        {
+          "id": "6229401",
+          "title": "Szafa",
+          "url": "https://cdn.fixly.pl/gallery/2849647-4f93de23efb82b06464c85bee6a7834c.jpg"
+        },
+        {
+          "id": "6229402",
+          "title": "Kuchnia",
+          "url": "https://cdn.fixly.pl/gallery/2849647-26f10d06ae2c6bb7fc353644a7c35166.jpg"
+        },
+        {
+          "id": "6229403",
+          "title": "Kuchnia",
+          "url": "https://cdn.fixly.pl/gallery/2849647-27a15c1315e148633ea80ed0b1a4f33d.jpg"
+        },
+        {
+          "id": "6229406",
+          "title": "Szafka nad WC",
+          "url": "https://cdn.fixly.pl/gallery/2849647-01f45850614271c41fc3987a22fe5985.jpg"
+        },
+        {
+          "id": "6229407",
+          "title": "Zabudowa w łazience",
+          "url": "https://cdn.fixly.pl/gallery/2849647-065474b475697b43c50a7f2fd96c9e5f.jpg"
+        },
+        {
+          "id": "6229408",
+          "title": "Regały w pralni",
+          "url": "https://cdn.fixly.pl/gallery/2849647-64cc4fd6d1ef41ec130f0f00d7372fd6.jpg"
+        },
+        {
+          "id": "6229409",
+          "title": "Biblioteka",
+          "url": "https://cdn.fixly.pl/gallery/2849647-dc356fa362f32471d0f73d3be44d9bd7.jpg"
+        },
+        {
+          "id": "6229410",
+          "title": "Garderoba",
+          "url": "https://cdn.fixly.pl/gallery/2849647-ae04ed919b40d531bda6a0d8b10e1ce7.jpg"
+        },
+        {
+          "id": "6229411",
+          "title": "Garderoba",
+          "url": "https://cdn.fixly.pl/gallery/2849647-cb5c4ea0274263fdd7f123c5dff21f53.jpg"
+        },
+        {
+          "id": "6229412",
+          "title": "Szafka TV",
+          "url": "https://cdn.fixly.pl/gallery/2849647-f55c0326b911fd2a1d34fb522fe6f010.jpg"
+        },
+        {
+          "id": "6229413",
+          "title": "Zestaw pod RTV",
+          "url": "https://cdn.fixly.pl/gallery/2849647-b422dc932884defa2bec455ea01666a3.jpg"
+        },
+        {
+          "id": "6229414",
+          "title": "Szafa z drzwiami przesuwnymi",
+          "url": "https://cdn.fixly.pl/gallery/2849647-a2fc699726f2127785ef36b9309f3671.jpg"
+        },
+        {
+          "id": "6229415",
+          "title": "Wymiana blatu w użytkowanej kuchni",
+          "url": "https://cdn.fixly.pl/gallery/2849647-25e89e9a204006c1e11a0f8f7f9e80f8.jpg"
+        },
+        {
+          "id": "6229416",
+          "title": "Zabudowa ściany i ukryta szafa w niej",
+          "url": "https://cdn.fixly.pl/gallery/2849647-544f0821aa2921dc2e50990639cce424.jpg"
+        }
+      ],
+      "feedbackInfo": {
+        "ratePercentages": [
+          {
+            "rate": 5,
+            "percentage": 85.87
+          },
+          {
+            "rate": 4,
+            "percentage": 1.09
+          },
+          {
+            "rate": 3,
+            "percentage": 1.09
+          },
+          {
+            "rate": 2,
+            "percentage": 3.26
+          },
+          {
+            "rate": 1,
+            "percentage": 8.7
+          }
+        ],
+        "topL4Categories": [
+          {
+            "id": "1394",
+            "name": "Stolarz"
+          },
+          {
+            "id": "1393",
+            "name": "Montaż mebli"
+          },
+          {
+            "id": "2110",
+            "name": "Meble na wymiar"
+          },
+          {
+            "id": "1377",
+            "name": "Szafy na wymiar"
+          },
+          {
+            "id": "1395",
+            "name": "Meble kuchenne na wymiar"
+          }
+        ]
+      },
+      "insurance": null
+    },
+    "providerFeedbacksBySlug": [
+      {
+        "id": "1640341",
+        "authorFirstName": "Kasia",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-e5399e47-5294-46c2-88c2-3d22ed2ea50b-ddfb543414c2119b370b4f99060f1932.png",
+        "rating": 5,
+        "comment": "Profesjonalne doradztwo, świetne wykonanie. Piękna szafa. ",
+        "cityName": "Opole",
+        "categoryName": "Stolarz",
+        "l4CategoryNames": [
+          "Stolarz",
+          "Montaż mebli",
+          "Meble na wymiar"
+        ],
+        "createdAt": "2026-10-27T19:52:43.000Z",
+        "files": [],
+        "reply": null
+      },
+      {
+        "id": "1639164",
+        "authorFirstName": "Magda",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-974572-b6f9e5db82dc99a2816ca83664412636.png",
+        "rating": 1,
+        "comment": "OSTRZEŻENIE! Wymagają 90% wpłaty (40% zaliczki +50% w dniu montażu) zanim w ogóle zobaczysz meble. Wykorzystują niewiedzę klienta: podsuwają specyfikację niezgodną z projektem architekta, a potem twierdzą, że wszystko zostało zatwierdzone (zmieniono wymiary szafek, zniknęły uchwyty). Właściciel jest arogancki, niestabilny emocjonalnie i stosuje szantaż. Montaż to fuszerka zakończona nagle bez protokołu odbioru – braki zaślepek, regulacji, wycięć na odpływ - bo tego nie było w cenie. Zgłoszoną tuż po montażu listę uwag/braków/niezgodności rozpatrzył W RAMACH REKLAMACJI(!!) i odrzucił w całości.",
+        "cityName": "Kielce",
+        "categoryName": "Stolarz",
+        "l4CategoryNames": [
+          "Stolarz"
+        ],
+        "createdAt": "2026-10-26T10:58:06.000Z",
+        "files": [],
+        "reply": {
+          "id": "69440",
+          "comment": "Opinia napisana przez patoflipero-pseudoarchitekta, co się niby na wymiarach nie zna, główny zarzut to dostawa zgodna z zamówieniem, wesoło musi być :)",
+          "status": "approved",
+          "createdAt": "2026-10-26T21:41:03.000Z"
+        }
+      },
+      {
+        "id": "1614998",
+        "authorFirstName": "Marcin",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-fe5f7af6-6688-4a68-997c-6d17c0f273c1-b7a20f58e42800ff09c343a33e0f28d9.png",
+        "rating": 1,
+        "comment": "Odpisują w kilka minut – do czasu zapytania o umowę... Pierwsza wiadomość to próba przeniesienia kontaktu poza Fixly, na stronę bez adresu, NIPu i dokumentów, z innymi cenami niż oferowane na Fixly i innymi realizacjami niż te pokazane tutaj. Może dlatego, że pod tym adresem zarejestrowanych jest kilka spółek z o.o. zajmujących się produkcją mebli... Ta spółka istnieje niecały rok, a na Fixly widnieje od 3 lat i deklaruje 6 lat doświadczenia – ciekawie się to ze sobą łączy. Najważniejsze: po ustaleniu ceny i prośbie o wzór umowy kontakt się urwał. Warto przeczytać komentarze i odp firmy ",
+        "cityName": "Praszka",
+        "categoryName": "Stolarz",
+        "l4CategoryNames": [
+          "Stolarz"
+        ],
+        "createdAt": "2026-09-22T06:06:30.000Z",
+        "files": [],
+        "reply": {
+          "id": "68488",
+          "comment": "Komentarz sam w sobie jest odpowiedzią, więcej uwagi szkoda poświęcać :) ",
+          "status": "approved",
+          "createdAt": "2026-09-22T06:10:33.000Z"
+        }
+      },
+      {
+        "id": "1606971",
+        "authorFirstName": "Anna",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-eb9be58b-efb2-4fe8-9ed3-a577155a4b51-9c9c5c956876492124589f2acb0fe914.png",
+        "rating": 5,
+        "comment": "Fachowa obsługa.",
+        "cityName": "Opole",
+        "categoryName": "Montaż mebli",
+        "l4CategoryNames": [
+          "Montaż mebli"
+        ],
+        "createdAt": "2026-09-09T17:08:04.000Z",
+        "files": [],
+        "reply": null
+      },
+      {
+        "id": "1604744",
+        "authorFirstName": "Zygmunt",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-1126590-36a6379abda5ae2b02a5b5ab867b3983.png",
+        "rating": 5,
+        "comment": "Dobry kontakt, dobrze zrobione.",
+        "cityName": "Opole",
+        "categoryName": "Stolarz",
+        "l4CategoryNames": [
+          "Montaż mebli",
+          "Stolarz",
+          "Blaty kuchenne na wymiar"
+        ],
+        "createdAt": "2026-09-06T10:09:03.000Z",
+        "files": [],
+        "reply": null
+      },
+      {
+        "id": "1599269",
+        "authorFirstName": "Krzysztof",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-1843475-1c58196f03f5d7986ffeeac164d9f0f8.png",
+        "rating": 1,
+        "comment": "Podejscie dramat ... Ceny wstepne z kosmosu  i Jeszcze oczekuje projektu .\nInni daja 5tys a oni 13tys za zlecenie. szkoda czasu \n",
+        "cityName": "Piotrków Trybunalski",
+        "categoryName": "Meble na wymiar",
+        "l4CategoryNames": [
+          "Meble na wymiar"
+        ],
+        "createdAt": "2026-08-28T17:56:50.000Z",
+        "files": [],
+        "reply": {
+          "id": "67879",
+          "comment": "To absolutnie podstawa aby był projekt, aby nie było wątpliwości co dokładnie ma być wykonane. Ceny u nas są normalne, być może wymiary podane były błędne. Próbowaliśmy to wyjaśnić jednak po krótkiej rozmowie nie byliśmy wstanie :) komentarz klienta mówi sam za siebie :))",
+          "status": "approved",
+          "createdAt": "2026-08-28T18:00:35.000Z"
+        }
+      },
+      {
+        "id": "1588150",
+        "authorFirstName": "Paweł",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-0bb293f6-45a3-42c7-9635-ee1a2adc246d-a201716038b87b1c1c8828ab797226ed.png",
+        "rating": 1,
+        "comment": "Monter po prostu wyszedł w trakcie montażu twierdząc, że nie potrafi prosto. Nie sporządzono żadnego protokołu odbioru mebli, mimo wpłaconej 100% zaliczki. Spółka poinformowała później, że \"Zamówienie zostało wykonane w zakresie dostawy i montażu, a meble zostały wydane i zamontowane w miejscu wskazanym przez klienta w dniu 16.04.2026 r. Od tego momentu przedmiot zamówienia pozostaje w użytkowaniu.\". Tymczasem meble pozostały w stanie jak na zdjęciach, a do tego wióry, tłuste plamy, uszkodzona ściana, niezlicowane korpusy i niewyregulowane fronty. Polecam sprawdzić inne opinie o panu Tomaszu.",
+        "cityName": "Toruń",
+        "categoryName": "Meble na wymiar",
+        "l4CategoryNames": [
+          "Meble na wymiar"
+        ],
+        "createdAt": "2026-08-12T13:05:18.000Z",
+        "files": [
+          "https://cdn.fixly.pl/feedback/4181043-abf4fe007e088efdd971d799a6f36065.jpg",
+          "https://cdn.fixly.pl/feedback/4181043-610ca4e34ea151314d65475ca8b62a75.jpg",
+          "https://cdn.fixly.pl/feedback/4181043-1a03dffc81b2c1794929d72010f3e12b.jpg",
+          "https://cdn.fixly.pl/feedback/4181043-5473d41bf0efcc6c39da5e9399ad31ac.jpg",
+          "https://cdn.fixly.pl/feedback/4181043-89061b4e788c216184e49addef7dac1e.jpg"
+        ],
+        "reply": {
+          "id": "67394",
+          "comment": "Przedstawiona opinia pomija istotne fakty. Przez kolejne miesiące, wielokrotnie, kontaktowaliśmy się z klientem, deklarując gotowość do wykonania serwisu i prosząc o wskazanie dogodnego terminu wizyty. Zamiast uzgodnić termin i doprowadzić sprawę do rozwiązania, klient konsekwentnie ją eskalował, kierując ją do kolejnych instytucji. Pełna korespondencja potwierdza nasze wielokrotne próby rozwiązania sprawy oraz gotowość do wykonania serwisu.",
+          "status": "approved",
+          "createdAt": "2026-08-14T16:56:46.000Z"
+        }
+      },
+      {
+        "id": "1575833",
+        "authorFirstName": "Magda",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-974572-b6f9e5db82dc99a2816ca83664412636.png",
+        "rating": 1,
+        "comment": "Oczekuję dokończenia montażu, dowiezienia brakujących elementów oraz regulacji mebli przez firmę Meblowanko. W zależności od rozwoju zdarzeń opiszę sytuację dokładniej.",
+        "cityName": "Kielce",
+        "categoryName": "Stolarz",
+        "l4CategoryNames": [
+          "Stolarz"
+        ],
+        "createdAt": "2026-07-24T10:09:30.000Z",
+        "files": [
+          "https://cdn.fixly.pl/feedback/974572-05989594e5416536f257da6cb00cf234.jpg",
+          "https://cdn.fixly.pl/feedback/974572-e73a9fbfd7d1dea76be559c2c0f0daac.jpg",
+          "https://cdn.fixly.pl/feedback/974572-1304087dd74c5d837a25ffc0086155ab.jpg",
+          "https://cdn.fixly.pl/feedback/974572-b69376dae1c899d5bf14a99646ee2c90.jpg"
+        ],
+        "reply": {
+          "id": "67395",
+          "comment": "Zamówienie zostało zrealizowane zgodnie ze specyfikacją zamówienia. Klient został poinformowany o możliwości dokupienia dodatkowych elementów za symboliczną opłatą. Co najmniej jedno zdjęcie, które zostało zamieszczone zostało wykonane przed zakończeniem prac.",
+          "status": "approved",
+          "createdAt": "2026-08-14T16:58:25.000Z"
+        }
+      },
+      {
+        "id": "1537566",
+        "authorFirstName": "Agnieszka",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-ed7b6eb9-3d0f-4fa4-8ad5-f4ee88c231ba-36b5278189b392b83603fe73da900dc4.png",
+        "rating": 5,
+        "comment": "Zlecenie zostało wykonane szybko i profesjonalnie. Bardzo dobry kontakt oraz wysoka jakość usługi. Polecam!",
+        "cityName": "Kudowa-Zdrój",
+        "categoryName": "Stolarz",
+        "l4CategoryNames": [
+          "Stolarz"
+        ],
+        "createdAt": "2026-05-24T13:32:19.000Z",
+        "files": [
+          "https://cdn.fixly.pl/feedback/4061190-9825c61d4309f6a3b3111b60d9d0b4ee.jpg"
+        ],
+        "reply": null
+      },
+      {
+        "id": "1535609",
+        "authorFirstName": "Dawid",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-db41bbef-0cbb-4bf9-892b-4b4759cb5c44-aef81ac1bbdaaca0a41d5cf3c77c10fa.png",
+        "rating": 5,
+        "comment": "Zamówiliśmy nie łatwą usługę wykonania szafy na wymiar gdzie w pomieszczeniu znajdowała się tylna  ściana skośna. Chłopaki z Meblowanko zrobili to tak jak chcieliśmy i w dodatku montaż szafy wykonali w terminie zgodnym z umową. Polecamy i będziemy wracać !",
+        "cityName": "Mieroszów",
+        "categoryName": "Szafy na wymiar",
+        "l4CategoryNames": [
+          "Szafy na wymiar"
+        ],
+        "createdAt": "2026-05-21T07:56:07.000Z",
+        "files": [],
+        "reply": null
+      }
+    ]
+  }
+}

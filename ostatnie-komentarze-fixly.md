@@ -2,6 +2,36 @@
 
 ➡️ [https://www.meblowanko-opinie.pl/ostatnie-komentarze-fixly.html](https://www.meblowanko-opinie.pl/ostatnie-komentarze-fixly.html)
 
+
+Dane [https://www.meblowanko-opinie.pl/provider_so7qmueg.json](https://www.meblowanko-opinie.pl/provider_so7qmueg.json)
+
+```
+      "yearEstablished": 2020,
+      "yearsOfExperience": 6,
+      "dateRegistered": "2023-12-03T13:02:59.000Z",
+      "lastActivity": "2026-11-16T20:42:06.000Z",
+```
+
+```
+      "company": {
+        "id": "83108",
+        "nip": "9910564230",
+        "name": "MEBLOWANKO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "contactName": null,
+        "address": "ul. Śluzowa 4, 46-053 Chrząstowice",
+        "foundationDate": "2025-12-11T00:00:00.000Z",
+        "verificationStatus": "VERIFIED"
+      },
+```
+
+```
+        {
+          "id": "VerifiedCompany",
+          "title": "Dane firmy sprawdzone w GUS",
+          "tooltip": null
+        },
+```
+
 ## Opinia ID: `1588150` (2026-08-12 13:05:18 UTC) — Paweł, Toruń (ocena: 1/5)
 
 > Monter po prostu wyszedł w trakcie montażu twierdząc, że nie potrafi prosto. Nie sporządzono żadnego protokołu odbioru mebli, mimo wpłaconej 100% zaliczki. Spółka poinformowała później, że "Zamówienie zostało wykonane w zakresie dostawy i montażu, a meble zostały wydane i zamontowane w miejscu wskazanym przez klienta w dniu 16.04.2026 r. Od tego momentu przedmiot zamówienia pozostaje w użytkowaniu.". Tymczasem meble pozostały w stanie jak na zdjęciach, a do tego wióry, tłuste plamy, uszkodzona ściana, niezlicowane korpusy i niewyregulowane fronty. Polecam sprawdzić inne opinie o panu Tomaszu.
