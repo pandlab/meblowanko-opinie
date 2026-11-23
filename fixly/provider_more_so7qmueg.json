@@ -1,0 +1,3479 @@
+{
+  "data": {
+    "providerFeedbacksBySlug": [
+      {
+        "id": "1640341",
+        "comment": "Profesjonalne doradztwo, świetne wykonanie. Piękna szafa. ",
+        "authorFirstName": "Kasia",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-e5399e47-5294-46c2-88c2-3d22ed2ea50b-ddfb543414c2119b370b4f99060f1932.png",
+        "categoryName": "Stolarz",
+        "cityName": "Opole",
+        "createdAt": "2026-10-27T19:52:43.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarz",
+          "Montaż mebli",
+          "Meble na wymiar"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1639164",
+        "comment": "OSTRZEŻENIE! Wymagają 90% wpłaty (40% zaliczki +50% w dniu montażu) zanim w ogóle zobaczysz meble. Wykorzystują niewiedzę klienta: podsuwają specyfikację niezgodną z projektem architekta, a potem twierdzą, że wszystko zostało zatwierdzone (zmieniono wymiary szafek, zniknęły uchwyty). Właściciel jest arogancki, niestabilny emocjonalnie i stosuje szantaż. Montaż to fuszerka zakończona nagle bez protokołu odbioru – braki zaślepek, regulacji, wycięć na odpływ - bo tego nie było w cenie. Zgłoszoną tuż po montażu listę uwag/braków/niezgodności rozpatrzył W RAMACH REKLAMACJI(!!) i odrzucił w całości.",
+        "authorFirstName": "Magda",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-974572-b6f9e5db82dc99a2816ca83664412636.png",
+        "categoryName": "Stolarz",
+        "cityName": "Kielce",
+        "createdAt": "2026-10-26T10:58:06.000Z",
+        "rating": 1,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarz"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": {
+          "id": "69440",
+          "comment": "Opinia napisana przez patoflipero-pseudoarchitekta, co się niby na wymiarach nie zna, główny zarzut to dostawa zgodna z zamówieniem, wesoło musi być :)",
+          "status": "approved",
+          "createdAt": "2026-10-26T21:41:03.000Z",
+          "updatedAt": "2026-10-27T07:29:27.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1614998",
+        "comment": "Odpisują w kilka minut – do czasu zapytania o umowę... Pierwsza wiadomość to próba przeniesienia kontaktu poza Fixly, na stronę bez adresu, NIPu i dokumentów, z innymi cenami niż oferowane na Fixly i innymi realizacjami niż te pokazane tutaj. Może dlatego, że pod tym adresem zarejestrowanych jest kilka spółek z o.o. zajmujących się produkcją mebli... Ta spółka istnieje niecały rok, a na Fixly widnieje od 3 lat i deklaruje 6 lat doświadczenia – ciekawie się to ze sobą łączy. Najważniejsze: po ustaleniu ceny i prośbie o wzór umowy kontakt się urwał. Warto przeczytać komentarze i odp firmy ",
+        "authorFirstName": "Marcin",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-fe5f7af6-6688-4a68-997c-6d17c0f273c1-b7a20f58e42800ff09c343a33e0f28d9.png",
+        "categoryName": "Stolarz",
+        "cityName": "Praszka",
+        "createdAt": "2026-09-22T06:06:30.000Z",
+        "rating": 1,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarz"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": {
+          "id": "68488",
+          "comment": "Komentarz sam w sobie jest odpowiedzią, więcej uwagi szkoda poświęcać :) ",
+          "status": "approved",
+          "createdAt": "2026-09-22T06:10:33.000Z",
+          "updatedAt": "2026-09-22T08:50:57.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1606971",
+        "comment": "Fachowa obsługa.",
+        "authorFirstName": "Anna",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-eb9be58b-efb2-4fe8-9ed3-a577155a4b51-9c9c5c956876492124589f2acb0fe914.png",
+        "categoryName": "Montaż mebli",
+        "cityName": "Opole",
+        "createdAt": "2026-09-09T17:08:04.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Montaż mebli"
+        ],
+        "l4Slug": "montaz-mebli",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1604744",
+        "comment": "Dobry kontakt, dobrze zrobione.",
+        "authorFirstName": "Zygmunt",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-1126590-36a6379abda5ae2b02a5b5ab867b3983.png",
+        "categoryName": "Stolarz",
+        "cityName": "Opole",
+        "createdAt": "2026-09-06T10:09:03.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Montaż mebli",
+          "Stolarz",
+          "Blaty kuchenne na wymiar"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1599269",
+        "comment": "Podejscie dramat ... Ceny wstepne z kosmosu  i Jeszcze oczekuje projektu .\nInni daja 5tys a oni 13tys za zlecenie. szkoda czasu \n",
+        "authorFirstName": "Krzysztof",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-1843475-1c58196f03f5d7986ffeeac164d9f0f8.png",
+        "categoryName": "Meble na wymiar",
+        "cityName": "Piotrków Trybunalski",
+        "createdAt": "2026-08-28T17:56:50.000Z",
+        "rating": 1,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble na wymiar"
+        ],
+        "l4Slug": "meble-na-wymiar",
+        "reply": {
+          "id": "67879",
+          "comment": "To absolutnie podstawa aby był projekt, aby nie było wątpliwości co dokładnie ma być wykonane. Ceny u nas są normalne, być może wymiary podane były błędne. Próbowaliśmy to wyjaśnić jednak po krótkiej rozmowie nie byliśmy wstanie :) komentarz klienta mówi sam za siebie :))",
+          "status": "approved",
+          "createdAt": "2026-08-28T18:00:35.000Z",
+          "updatedAt": "2026-08-29T06:25:48.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1588150",
+        "comment": "Monter po prostu wyszedł w trakcie montażu twierdząc, że nie potrafi prosto. Nie sporządzono żadnego protokołu odbioru mebli, mimo wpłaconej 100% zaliczki. Spółka poinformowała później, że \"Zamówienie zostało wykonane w zakresie dostawy i montażu, a meble zostały wydane i zamontowane w miejscu wskazanym przez klienta w dniu 16.04.2026 r. Od tego momentu przedmiot zamówienia pozostaje w użytkowaniu.\". Tymczasem meble pozostały w stanie jak na zdjęciach, a do tego wióry, tłuste plamy, uszkodzona ściana, niezlicowane korpusy i niewyregulowane fronty. Polecam sprawdzić inne opinie o panu Tomaszu.",
+        "authorFirstName": "Paweł",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-0bb293f6-45a3-42c7-9635-ee1a2adc246d-a201716038b87b1c1c8828ab797226ed.png",
+        "categoryName": "Meble na wymiar",
+        "cityName": "Toruń",
+        "createdAt": "2026-08-12T13:05:18.000Z",
+        "rating": 1,
+        "files": [
+          "https://cdn.fixly.pl/feedback/4181043-abf4fe007e088efdd971d799a6f36065.jpg",
+          "https://cdn.fixly.pl/feedback/4181043-610ca4e34ea151314d65475ca8b62a75.jpg",
+          "https://cdn.fixly.pl/feedback/4181043-1a03dffc81b2c1794929d72010f3e12b.jpg",
+          "https://cdn.fixly.pl/feedback/4181043-5473d41bf0efcc6c39da5e9399ad31ac.jpg",
+          "https://cdn.fixly.pl/feedback/4181043-89061b4e788c216184e49addef7dac1e.jpg"
+        ],
+        "seen": true,
+        "isExternal": true,
+        "l4CategoryNames": [
+          "Meble na wymiar"
+        ],
+        "l4Slug": "meble-na-wymiar",
+        "reply": {
+          "id": "67394",
+          "comment": "Przedstawiona opinia pomija istotne fakty. Przez kolejne miesiące, wielokrotnie, kontaktowaliśmy się z klientem, deklarując gotowość do wykonania serwisu i prosząc o wskazanie dogodnego terminu wizyty. Zamiast uzgodnić termin i doprowadzić sprawę do rozwiązania, klient konsekwentnie ją eskalował, kierując ją do kolejnych instytucji. Pełna korespondencja potwierdza nasze wielokrotne próby rozwiązania sprawy oraz gotowość do wykonania serwisu.",
+          "status": "approved",
+          "createdAt": "2026-08-14T16:56:46.000Z",
+          "updatedAt": "2026-08-15T12:06:12.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1575833",
+        "comment": "Oczekuję dokończenia montażu, dowiezienia brakujących elementów oraz regulacji mebli przez firmę Meblowanko. W zależności od rozwoju zdarzeń opiszę sytuację dokładniej.",
+        "authorFirstName": "Magda",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-974572-b6f9e5db82dc99a2816ca83664412636.png",
+        "categoryName": "Stolarz",
+        "cityName": "Kielce",
+        "createdAt": "2026-07-24T10:09:30.000Z",
+        "rating": 1,
+        "files": [
+          "https://cdn.fixly.pl/feedback/974572-05989594e5416536f257da6cb00cf234.jpg",
+          "https://cdn.fixly.pl/feedback/974572-e73a9fbfd7d1dea76be559c2c0f0daac.jpg",
+          "https://cdn.fixly.pl/feedback/974572-1304087dd74c5d837a25ffc0086155ab.jpg",
+          "https://cdn.fixly.pl/feedback/974572-b69376dae1c899d5bf14a99646ee2c90.jpg"
+        ],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarz"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": {
+          "id": "67395",
+          "comment": "Zamówienie zostało zrealizowane zgodnie ze specyfikacją zamówienia. Klient został poinformowany o możliwości dokupienia dodatkowych elementów za symboliczną opłatą. Co najmniej jedno zdjęcie, które zostało zamieszczone zostało wykonane przed zakończeniem prac.",
+          "status": "approved",
+          "createdAt": "2026-08-14T16:58:25.000Z",
+          "updatedAt": "2026-08-15T12:06:05.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1537566",
+        "comment": "Zlecenie zostało wykonane szybko i profesjonalnie. Bardzo dobry kontakt oraz wysoka jakość usługi. Polecam!",
+        "authorFirstName": "Agnieszka",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-ed7b6eb9-3d0f-4fa4-8ad5-f4ee88c231ba-36b5278189b392b83603fe73da900dc4.png",
+        "categoryName": "Stolarz",
+        "cityName": "Kudowa-Zdrój",
+        "createdAt": "2026-05-24T13:32:19.000Z",
+        "rating": 5,
+        "files": [
+          "https://cdn.fixly.pl/feedback/4061190-9825c61d4309f6a3b3111b60d9d0b4ee.jpg"
+        ],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarz"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1535609",
+        "comment": "Zamówiliśmy nie łatwą usługę wykonania szafy na wymiar gdzie w pomieszczeniu znajdowała się tylna  ściana skośna. Chłopaki z Meblowanko zrobili to tak jak chcieliśmy i w dodatku montaż szafy wykonali w terminie zgodnym z umową. Polecamy i będziemy wracać !",
+        "authorFirstName": "Dawid",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-db41bbef-0cbb-4bf9-892b-4b4759cb5c44-aef81ac1bbdaaca0a41d5cf3c77c10fa.png",
+        "categoryName": "Szafy na wymiar",
+        "cityName": "Mieroszów",
+        "createdAt": "2026-05-21T07:56:07.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Szafy na wymiar"
+        ],
+        "l4Slug": "szafy-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1534562",
+        "comment": "Kontakt, realizacja, terminowość - piątka z dużym plusem!:-)",
+        "authorFirstName": "Arek",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-7787ccee-3440-4928-b762-fa83e624185e-d0bda4d6b914fb7e4b13636a4d969169.png",
+        "categoryName": "Meble na wymiar",
+        "cityName": "Nowa Ruda",
+        "createdAt": "2026-05-19T15:06:57.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble na wymiar"
+        ],
+        "l4Slug": "meble-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1529891",
+        "comment": "Kontakt szybki i dobry tylko do momentu podpisania umowy. Potem juz bardzo utrudniony a nawet niemożliwy kiedy doszlo do dokonczenia montażu. Termin realizacji szybki i za to plus. Szafka brudna porysowana wewnatrz na stolarni. Dorabialem szafke do istniejących mebli wiec mam porownanie. Na koniec szafka przyjechala bez uchwytow bo sie nie dogadalismy kto mial je kupić. Ok przyjalem wine na siebie, kupilem uchwyty i umowilsmy sie na montaz. I tak kontakt sie urwal. Nie tak sie traktuje klientow. I tak, wiem ze bedzie odszczekiwanie sie jak przy innych negatywnych komentarzach ale mam to gdzieś",
+        "authorFirstName": "Robert",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-f3767560-a12c-47b2-951e-65287a824ccb-c111e1407895444c05c8f0347f0347cb.png",
+        "categoryName": "Meble na wymiar",
+        "cityName": "Zabrze",
+        "createdAt": "2026-05-12T16:32:46.000Z",
+        "rating": 2,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble na wymiar"
+        ],
+        "l4Slug": "meble-na-wymiar",
+        "reply": {
+          "id": "65083",
+          "comment": "Kontakt jest zawsze, niezależnie od okoliczności. Zamówienie zostało zrealizowane zgodnie ze specyfikacją, zgodnie z terminem. Klient nie dostarczył uchwytów do mebli, wobec czego zaproponowaliśmy, że zamontujemy je gdy będziemy mieli możliwości logistyczne aby to zrobić. Niestety, klient oczekiwał, że zrobimy to najlepiej następnego dnia, niestety to jest niemożliwe o czym był informowany. Przykro nam, że ocenił nas Pan na zaledwie dwie gwiazdki, na pewno emocje wzięły górę, jesteśmy przekonani, że obiektywna ocena powinna być wyższa.",
+          "status": "approved",
+          "createdAt": "2026-05-20T07:38:22.000Z",
+          "updatedAt": "2026-05-20T10:32:49.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1521987",
+        "comment": "Termin realizacji szybki. Lecz jakość wykonania nie do końca spełnia moje oczekiwania, za kwotę którą otrzymałem przy wycenie spodziewałem się czegoś lepszego i dokładniejszego wykonania. Klamka ze zdjęć nie była wliczona w projekt. ",
+        "authorFirstName": "Dawid",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-4fb86f81-8c65-4547-8c6c-84a4e1c77beb-32d3a6222f4de4887a13807c1c39e84f.png",
+        "categoryName": "Stolarz",
+        "cityName": "Śliwniki",
+        "createdAt": "2026-04-29T11:24:35.000Z",
+        "rating": 2,
+        "files": [
+          "https://cdn.fixly.pl/feedback/3967379-58522221d4514c2bde0536d04d8c2eaf.jpg",
+          "https://cdn.fixly.pl/feedback/3967379-b6c2a5f45a76c437f5d4c50835e45cdc.jpg",
+          "https://cdn.fixly.pl/feedback/3967379-050d9c0be738d994fee86f0b006cbe0e.jpg",
+          "https://cdn.fixly.pl/feedback/3967379-1b53c6bf30ab46cc80a59811da154a35.jpg",
+          "https://cdn.fixly.pl/feedback/3967379-134dfff08f1a0002d95f6ecb472fd30e.jpg"
+        ],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarz"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": {
+          "id": "64243",
+          "comment": "Opinia zasadniczo się zgadza, poza gwiazdkami :) Zrobiliśmy te piękne drzwi w zaledwie trzy dni i zrobiliśmy również montaż w rewelacyjnym czasie. Na pierwszym zdjęciu widzimy idealne spasowanie na zawiasach, dodatkowo zamontowaliśmy zawiasy, które wytrzymają wiele lat, moim zdaniem bardzo dobre wykonanie w jeszcze lepszym czasie :)",
+          "status": "approved",
+          "createdAt": "2026-04-30T06:27:37.000Z",
+          "updatedAt": "2026-04-30T09:12:44.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1501486",
+        "comment": "Profesjonalne doradztwo. \nMili ludzie. \nUczciwe ceny",
+        "authorFirstName": "Monika",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-e21abe3c-4d25-42a5-b0c9-1028f1282990-300c60b571f86a1583c6c84189244f91.png",
+        "categoryName": "Meble kuchenne na wymiar",
+        "cityName": "Podgórzyn",
+        "createdAt": "2026-03-27T06:57:13.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble kuchenne na wymiar"
+        ],
+        "l4Slug": "meble-kuchenne-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1501214",
+        "comment": "szybko i sprawnie ",
+        "authorFirstName": "Jacek",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-1164829-5946f5b43d9932de02cffe7677275b52.png",
+        "categoryName": "Meble na wymiar",
+        "cityName": "Strzegom",
+        "createdAt": "2026-03-26T18:07:36.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble na wymiar"
+        ],
+        "l4Slug": "meble-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1466516",
+        "comment": "Szybki czas realizacji zamowienia ! Dokladnie wykonana praca ! Brak zastrzezen.  ",
+        "authorFirstName": "Mateusz",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-17628240-078a-470d-92a1-5b63367c971b-c7055e5f713ab3b0a9614f7cc1ace1fd.png",
+        "categoryName": "Meble na wymiar",
+        "cityName": "Poniatowo, żuromiński",
+        "createdAt": "2026-02-04T15:48:23.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble na wymiar",
+          "Stolarz",
+          "Szafy na wymiar"
+        ],
+        "l4Slug": "meble-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1456688",
+        "comment": "Wszystko sprawne zrobione pełen profesjonalizm.  polecam  \n",
+        "authorFirstName": "Sylwia",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-67e9859b-ed2c-4107-ae5d-e3430c2e9c69-e40bce825fe2e157d6a9c3dc2da35dc7.png",
+        "categoryName": "Montaż mebli",
+        "cityName": "Opole",
+        "createdAt": "2026-01-20T08:52:58.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Montaż mebli"
+        ],
+        "l4Slug": "montaz-mebli",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1429149",
+        "comment": "Jestem zadowolona. Bardzo szybka realizacja, dobre dopasowanie. Polecam !",
+        "authorFirstName": "Katarzyna",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-1160932-13aea42d95ac153d7b6a429ae0617114.png",
+        "categoryName": "Stolarz",
+        "cityName": "Katowice",
+        "createdAt": "2025-12-02T13:07:19.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Blaty kuchenne na wymiar",
+          "Stolarz"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1422267",
+        "comment": "Dobrze zrobione w terminie.",
+        "authorFirstName": "Kazimierz",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-2138096-247f4470920dd6a8e2e9012cd6d9a0a8.png",
+        "categoryName": "Montaż mebli",
+        "cityName": "Kraków",
+        "createdAt": "2025-11-21T13:51:58.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Montaż mebli"
+        ],
+        "l4Slug": "montaz-mebli",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1415764",
+        "comment": "NIEPOLECAM zdjecia mowia same za siebie szkoda ze jest limit. Umawianie sie to jakas tragedia ciagle nie odbieranie telefonu. Nie przyjezdzanie na umowiony termin. Meble brudne, od kleju, wiorow bo cieciu. Ciecie u klienta bez odkurzacza uszkodzenie sciany na klatce schodowej. Doprowadzenie mebli po tej wizycie to kilka godzin odkurzania i mycia. Uszkodzenie scian, w innym pokoju przewiercenie na wylot sciany. Nie rowne łaczenia. Brak wlacznika do swiatel brak zaslepek kolki odstaja na scisny. Ogolnie tragedia… ",
+        "authorFirstName": "Krzysztof",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-1088473-3370ae0c0bc874cedf550a27a0ccd51b.png",
+        "categoryName": "Meble na wymiar",
+        "cityName": "Opole",
+        "createdAt": "2025-11-11T12:03:14.000Z",
+        "rating": 1,
+        "files": [
+          "https://cdn.fixly.pl/feedback/1088473-e04fac5e1dea183b52ea247d5b73add8.jpg",
+          "https://cdn.fixly.pl/feedback/1088473-cf56b887ae9c8f1e9c95e72823448c80.jpg",
+          "https://cdn.fixly.pl/feedback/1088473-500199d667e5960b4aff2ea221dd02c3.jpg",
+          "https://cdn.fixly.pl/feedback/1088473-f2cac8b219a67e8ccef3b2f4895ebc88.jpg",
+          "https://cdn.fixly.pl/feedback/1088473-0126aedb298f7a14eebec45ddc7e9a97.jpg"
+        ],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble na wymiar"
+        ],
+        "l4Slug": "meble-na-wymiar",
+        "reply": {
+          "id": "57958",
+          "comment": "Pana ocena ma bardzo luźny związek z rzeczywistością wobec czego zostanie zgłoszona jako pomówienie. Faktycznie, czasem jest ciężko odebrać telefon, natomiast zawsze oddzwaniamy, a co do terminu to Pan go przekładał, z uwagi na profesjonalizm, nie będziemy przytaczać szczegółów. Co do ścian, informowaliśmy że jeśli ściana ma grubość taką a nie inną to tak się wydarzy, nie jesteśmy winni, że obecnie mieszkania budowane są ze ścian 8cm. Wobec wszystkiego należy wspomnieć, że z uwagi na dobro relacji również udzieliliśmy Panu rabatu. Dodam, że nie wnosiliśmy mebli klatką schodową, a widną. ",
+          "status": "approved",
+          "createdAt": "2025-11-11T12:27:05.000Z",
+          "updatedAt": "2025-11-11T14:03:56.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1406427",
+        "comment": "",
+        "authorFirstName": "Dorota",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-a4c1bda2-905b-417c-b57f-0f624c909e07-62cc202b31bf5149023e4c36428f45ae.png",
+        "categoryName": "Stolarz",
+        "cityName": "Krapkowice",
+        "createdAt": "2025-10-27T12:03:37.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarz",
+          "Montaż mebli",
+          "Blaty kuchenne na wymiar"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1393240",
+        "comment": "Pan Tomasz już drugi raz przerabiał mi szafkę pod zmywarkę. Nie bylo na nią miejsca, zmniejszona o 45cm szafka i magicznie jest:) Do tego nadprogramowo pomógł ją wnieść, co nie tylko świadczy, ze jest profesjonalistą - rzetelnym, słownym i punktualnym, ale rowniez pomocnym i dobrym człowiekiem :) Miły kontakt, bez nadęcia :) ",
+        "authorFirstName": "Malwina",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-2061543-997a3a1c4932afc995ce757582e39563.png",
+        "categoryName": "Montaż mebli",
+        "cityName": "Opole",
+        "createdAt": "2025-10-07T15:21:37.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": true,
+        "l4CategoryNames": [
+          "Meble na wymiar",
+          "Montaż mebli",
+          "Stolarz"
+        ],
+        "l4Slug": "montaz-mebli",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1315880",
+        "comment": "Proszę się nie sugerować pojedynczymi negatywnymi komentarzami u Pana Tomka... albo to konkurencja, albo wredni klienci, którzy zawsze muszą zaspokoić swoje ego i pomarudzić (a takich nie brakuje).\nSzafa w naszym przypadku wykonana wzorcowo, zgodnie z naszym dokładnym projektem, ze wskazaniem konkretnego materiału (odcień płyty konkretnego producenta). Od momentu zamówienia minęły trzy tygodnie i szafa stoi na miejscu! Wszystko idealnie spasowane, bez żadnych uszczerbków, a na jakiekolwiek sugestie w trakcie montażu Pan Tomek reaguje bezproblemowo. Cenowo również bardzo atrakcyjnie w porównaniu do innych ofert. Reasumując, wystarczy pozytywne nastawienie z obu stron, miły kontakt od początku i mamy finał w postaci super wykonanej pracy. Będę polecał!!!",
+        "authorFirstName": "Katarzyna",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-4f95f5f2-a0c8-4a84-8354-c97ab6d04c3e-729ecf8776244edbaa96d296d0a7d9d3.png",
+        "categoryName": "Szafy na wymiar",
+        "cityName": "Kielce",
+        "createdAt": "2025-06-10T11:22:18.000Z",
+        "rating": 5,
+        "files": [
+          "https://cdn.fixly.pl/gallery/3627674-6ce2c152c519a5bca62fd7f7d17c3426.jpg"
+        ],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Szafy na wymiar"
+        ],
+        "l4Slug": "szafy-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1306681",
+        "comment": "ustalona cena względnie atrakcyjna, termin wykonania usługi oraz kontakt bez zarzutu. Na tym niestety plusy się kończą. Meble są krzywe, szuflady się nie schodzą (wykonawca twierdzi, że NIE DA SIĘ ZROBIĆ SZUFLAD TAK BY BYŁY PROSTO!), na płytach meblowych odpryski i ubicia, w meblach dziury po jakichś śrubach, które były tam wcześniej. Niektóre śruby, które wystają i chciałem je dokręcić obracają się luźno czyli już nie są zerwane. Nie jestem zadowolony i nie polecam",
+        "authorFirstName": "Maciej",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-2152049-1b99e8e059454164d2fcbe7efc65b0aa.png",
+        "categoryName": "Szafy na wymiar",
+        "cityName": "Gliwice",
+        "createdAt": "2025-05-26T10:03:15.000Z",
+        "rating": 2,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Szafy na wymiar"
+        ],
+        "l4Slug": "szafy-na-wymiar",
+        "reply": {
+          "id": "53400",
+          "comment": "Meble nie są krzywe, są proste, są zrobione wg Pana prośby bez nóżek regulowanych. Finalnie życzył Pan sobie ustawienia szafy z jednej strony na podłodze, z drugiej strony na profilu dylatacyjnym. (podczas pomiaru było ustalone inne miejsce). Nie rozumiem zasadności \"dokręcania śrub we własnym zakresie\", a w kolejnym kroku informowaniu, że dokręcając je de fakto \"przekręcił je Pan. Trzeba to robić wkrętarką z odpowiednią siła.\nPrzykro mi, że wystawił Pan ocenę dalece niesprawiedliwą. ",
+          "status": "approved",
+          "createdAt": "2025-05-26T10:09:21.000Z",
+          "updatedAt": "2025-05-26T10:30:44.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1304214",
+        "comment": "Profesjonalizm, kultura osobista, bardzo dobry kontakt, szybka realizacja. Szafa do przedpokoju porządnie wykonana.\nBardzo polecam i bede wracać z kolejnymi zleceniami :⁠-⁠)\nDziekuje 🌹",
+        "authorFirstName": "Marta",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-cf91461c-d990-4767-a032-bceb866a635a-d01692bead8fbd51875bc68a3712f908.png",
+        "categoryName": "Meble na wymiar",
+        "cityName": "Połaniec",
+        "createdAt": "2025-05-22T04:54:32.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble na wymiar"
+        ],
+        "l4Slug": "meble-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1303291",
+        "comment": "Terminowy, miły Pan. Doradził, powiedział co lepiej wybrać, co tańsze, co identyczne ale w cenie tej samej. ",
+        "authorFirstName": "Krystian",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-cf8f29c7-475f-4a94-9b1c-e527bbe1bc92-868fae2b275aac81fdc8e77f2836a0cc.png",
+        "categoryName": "Szafy na wymiar",
+        "cityName": "Sędziszów",
+        "createdAt": "2025-05-20T17:31:27.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Szafy na wymiar",
+          "Meble kuchenne na wymiar",
+          "Montaż mebli"
+        ],
+        "l4Slug": "szafy-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1290937",
+        "comment": "Realizacja szybka, meble złożone w jeden dzień i to tyle z plusów. Niestety, ale wykonanie jest niedokładne. Blaty postrzepione, brak podłączonego sprzętu i brak dojścia do konaktów, aby ten sprzęt podłączyć, musieliśmy odkrecać szafki i je wyciagać, żeby podłączyć zmywarkę. ",
+        "authorFirstName": "Angelika",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-8b92a147-8dc2-4063-ac50-6ab868ac7255-e5d2fac32e39b4ab8249046be41da7d9.png",
+        "categoryName": "Montaż mebli",
+        "cityName": "Kędzierzyn-Koźle",
+        "createdAt": "2025-04-29T07:11:31.000Z",
+        "rating": 3,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Montaż mebli"
+        ],
+        "l4Slug": "montaz-mebli",
+        "reply": {
+          "id": "52795",
+          "comment": "Dziękuję za opinię. Dla kontekstu warto było by dodać że umawialiśmy się na montaż mebli, klient zapytany o przygotowanie pomieszczenia zgodnie z projektem, udzielił informacji, że tak. Na miejscu gniazdka z przesunięciem za szafka obok np zmywarka, piekarnik oraz mikrofala, zawór gazu idealnie za piekarnikiem co jest niezgodne. Zawór od gazu MUSI być w miejscu łatwo dostępny a nie zasłonięty piekarnikiem. Opinia średnio trafiona, no nic jeszcze raz dziękuję.",
+          "status": "approved",
+          "createdAt": "2025-04-29T13:02:08.000Z",
+          "updatedAt": "2025-04-29T13:19:58.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1272401",
+        "comment": "polecam.  ",
+        "authorFirstName": "Mariusz",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-d14733c1-1d9b-4faa-8bee-8f9771b2a0aa-33ec62421eef386f4e9e4b3e33935165.png",
+        "categoryName": "Meble na wymiar",
+        "cityName": "Opole",
+        "createdAt": "2025-03-26T19:54:00.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble na wymiar"
+        ],
+        "l4Slug": "meble-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1256536",
+        "comment": "Bardzo szybka realizacja,pan bardzo mily. Na pewno będę polecać.",
+        "authorFirstName": "Agnieszka",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-a58f3a60-82b3-4fe0-80d2-c6e384175cdc-997c19204f53a5a1bb2ade8fb8a16318.png",
+        "categoryName": "Stolarz",
+        "cityName": "Strzelce Opolskie",
+        "createdAt": "2025-02-27T18:44:35.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarnia",
+          "Stolarz",
+          "Montaż mebli"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1245560",
+        "comment": "Polecam, jestem zadowolony z efektu końcowego. Wszystko zgodnie z ustaleniami, moim projektem. Kontakt bardzo dobry, cierpliwość jeśli chodzi o moje pomysły:) Kolory takie jak sobie wybrałem, montaż sprawny, zaangażowanie dlatego zachęcam do skorzystania z usług ",
+        "authorFirstName": "Marcin",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-2268275-c58d63b5da22dbb0c90d469a86473974.png",
+        "categoryName": "Stolarz",
+        "cityName": "Święta Katarzyna",
+        "createdAt": "2025-02-08T19:45:12.000Z",
+        "rating": 5,
+        "files": [
+          "https://cdn.fixly.pl/feedback/2268275-e1a111519ec3c967a279e77750b4a591.jpg",
+          "https://cdn.fixly.pl/feedback/2268275-3fe484590292299b1a0c1bc54c886193.jpg",
+          "https://cdn.fixly.pl/feedback/2268275-e8213077a29c364af0d687c652058b5a.jpg",
+          "https://cdn.fixly.pl/feedback/2268275-77dd48033f201b0ff0d9449cea13c2de.jpg"
+        ],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Szafy na wymiar",
+          "Stolarnia",
+          "Stolarz"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": {
+          "id": "50823",
+          "comment": "Ślicznie dziękuję za poświęcony czas na wystawienie opinii.\nTo budujące, gdy klienci doceniają zaangażowanie, praca dla WAS to czysta przyjemność :)",
+          "status": "approved",
+          "createdAt": "2025-02-12T20:13:56.000Z",
+          "updatedAt": "2025-02-13T07:16:57.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1239846",
+        "comment": "super wykonawca punktualny, słowny i świetny wykonawca szaf wszystko zrobione na wielkie pięć.",
+        "authorFirstName": "Anna",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-b4efbb58-7323-473c-9f02-509c58f724ee-41fb9452f0b818ec2169fb382dcac272.png",
+        "categoryName": "Szafy na wymiar",
+        "cityName": "Kłodzko",
+        "createdAt": "2025-01-29T19:31:24.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Szafy na wymiar",
+          "Stolarnia",
+          "Stolarz"
+        ],
+        "l4Slug": "szafy-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1230725",
+        "comment": "Wszystko w jak najlepszym porządku.",
+        "authorFirstName": "Elżbieta",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-8f5c32fd-3c56-40d0-89f3-025a3919d10f-fd46a974ab4752f2fd446b2f8e369fff.png",
+        "categoryName": "Stolarz",
+        "cityName": "Bytom",
+        "createdAt": "2025-01-13T19:31:25.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble kuchenne na wymiar",
+          "Stolarz",
+          "Stolarnia"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1217805",
+        "comment": "Montaż zgodnie z oczekiwaniami, szybko sprawnie i przyjemnie. Polecam!",
+        "authorFirstName": "Aleksandra",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-96812d37-fb44-42ba-8171-5316458e8493-5d6a68f654bbbd7199d813211a8b550c.png",
+        "categoryName": "Blaty kuchenne na wymiar",
+        "cityName": "Sobótka",
+        "createdAt": "2024-12-16T11:03:27.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Blaty kuchenne na wymiar"
+        ],
+        "l4Slug": "blaty-kuchenne-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1216279",
+        "comment": "Szafy wykonane solidnie, zgodnie z zamówieniem, z dobrych materiałów i na czas. Jestem bardzo zadowolona i polecam tego wykonawcę.\n",
+        "authorFirstName": "Ewa",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-1676983-85890beda41ec3319ca647811cb5df8a.png",
+        "categoryName": "Szafy na wymiar",
+        "cityName": "Stronie Śląskie, kłodzki",
+        "createdAt": "2024-12-13T06:59:20.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarz",
+          "Szafy na wymiar",
+          "Stolarnia"
+        ],
+        "l4Slug": "szafy-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1207329",
+        "comment": "",
+        "authorFirstName": "Krzysztof",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/55882-Y33kOF16fm.png",
+        "categoryName": "Meble kuchenne na wymiar",
+        "cityName": "Jastrzębie-Zdrój",
+        "createdAt": "2024-11-26T16:33:00.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble na wymiar",
+          "Meble kuchenne na wymiar",
+          "Stolarz"
+        ],
+        "l4Slug": "meble-kuchenne-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1203359",
+        "comment": "Bardzo solidnie i dokładnie wykonana praca nawet ponadto zrobiona praca w miłej i przesympatycznej atmosferze jeżeli mogę to szczerze polecam tego fachowca  150% wykonanej pracy.",
+        "authorFirstName": "Waldek",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-1676144-6adc53fde0ec536eb52a1b6392ddd921.png",
+        "categoryName": "Stolarz",
+        "cityName": "Nowe Skalmierzyce",
+        "createdAt": "2024-11-19T20:09:43.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarnia",
+          "Blaty kuchenne na wymiar",
+          "Stolarz"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1203070",
+        "comment": "Szybko, ładnie ,uczciwie.",
+        "authorFirstName": "Rafał",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-06137ad7-6887-4dc7-b3c1-3ae2710f4244-2ae8dd26de3ffa7e6c5fca986e5171ff.png",
+        "categoryName": "Stolarz",
+        "cityName": "Krasnystaw",
+        "createdAt": "2024-11-19T13:37:13.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarnia",
+          "Meble na wymiar",
+          "Stolarz"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1187165",
+        "comment": "",
+        "authorFirstName": "Klaudia",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-bd90709d-ebc7-4cc1-ac34-c59f79c0ecf9-21edeb7506fce79f73d1f24175829098.png",
+        "categoryName": "Meble kuchenne na wymiar",
+        "cityName": "Konin",
+        "createdAt": "2024-10-20T11:46:14.000Z",
+        "rating": 4,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble kuchenne na wymiar"
+        ],
+        "l4Slug": "meble-kuchenne-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1182308",
+        "comment": "Ogolnie wszystko dobrze, byl jedynie problem z wyspa, ale zostalo wszystko dogadane. Z Panem Tomkiem bardzo dobry kontakt, wszystko tlumaczyl i ewentualnie robil poprawki, jezeli czegos nam brakowalo lub trzeba bylo zmienic jakis szczegol. Kuchnia jest piekna, dziekujemy za wykonanie mebli :).",
+        "authorFirstName": "Ala",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-2273119-bf1e29990646f62fe789e58f68695d4a.png",
+        "categoryName": "Meble kuchenne na wymiar",
+        "cityName": "Polkowice",
+        "createdAt": "2024-10-11T12:17:51.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble kuchenne na wymiar"
+        ],
+        "l4Slug": "meble-kuchenne-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1182277",
+        "comment": "Bardzo profesjonalne podejscie do klienta. Szafa taka jak chcialem przy nierównych scianach i wszystko dokladnie pod wymiar . Polecam na 100%",
+        "authorFirstName": "Jarek",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-33945407-c958-4854-b89c-c9db6ae193db-47d875c2fb62bb20670e7de0b0e91b87.png",
+        "categoryName": "Meble na wymiar",
+        "cityName": "Legnica",
+        "createdAt": "2024-10-11T11:12:31.000Z",
+        "rating": 5,
+        "files": [
+          "https://cdn.fixly.pl/feedback/3237528-4e5254b1d338dd207d2e6e63f24da194.jpg"
+        ],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Montaż mebli",
+          "Meble na wymiar",
+          "Szafy na wymiar"
+        ],
+        "l4Slug": "meble-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1177278",
+        "comment": "Nie polecam. Pierwszy raz spotkałam się z przepraszam.. tak bezczelnym wykonawcą. Niestosowne żarty, próby jakiegoś zabłyśnięcia… niemiły. Teksty „nie można zapłacić za Fiata i mieć Mercedesa”. Brak umowy, o której na początku rozmawialiśmy. Przestrzegam wszystkich żeby bardziej zwracać na takie rzeczy uwagę).Do tego wymaganie ponadprzeciętnej zaliczki - brak słów. Po zwróceniu uwagi o poprawność „umowy” dostałam odpowiedź „nie po to zakładałem biznes żeby działać nie na swoich zasadach”.Czyli dla tego pana należy się 30% zaliczki, a klient bez żadnej gwarancji, po wpłaceniu tak dużej kwoty. ",
+        "authorFirstName": "Natalia",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-16f1451e-d249-4965-926c-880a7d215e88-9a516126c1ba9c241a27d3b429ebdb31.png",
+        "categoryName": "Szafy na wymiar",
+        "cityName": "Zgorzelec",
+        "createdAt": "2024-10-02T18:38:32.000Z",
+        "rating": 1,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Szafy na wymiar"
+        ],
+        "l4Slug": "szafy-na-wymiar",
+        "reply": {
+          "id": "47882",
+          "comment": "XDD tłumaczy wszystko, 30% zaliczki to faktycznie kosmiczna kwota, wręcz ogromna :) \nPani nie podobały się warunki - mi również, no nic na siłę :)\nNiepotrzebna złośliwość, merytoryki niewiele ",
+          "status": "approved",
+          "createdAt": "2024-10-02T19:27:09.000Z",
+          "updatedAt": "2024-10-03T07:20:17.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1174933",
+        "comment": "Jestem zadowolona z usług👍 Polecam ",
+        "authorFirstName": "Ewunia",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-738f2c9c-9a0a-47c3-90a0-853e5b4ad007-0a703838e15c280d952388ce4f1a156b.png",
+        "categoryName": "Montaż mebli",
+        "cityName": "Racibórz",
+        "createdAt": "2024-09-28T17:30:53.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Montaż mebli"
+        ],
+        "l4Slug": "montaz-mebli",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1172666",
+        "comment": "Nie polecam! Zdjecia pokazują jakość wykonanych mebli, a wykonawca twierdzi, że umowa zostala wykonana prawidlowo jak na profesjonaliste przystało!",
+        "authorFirstName": "Sabina",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-cc7204f8-735a-48d6-b070-dd7b0a41e883-959959247d450ba3bfc5fb08e4e01741.png",
+        "categoryName": "Kuchnia na wymiar",
+        "cityName": "Krynica-Zdrój",
+        "createdAt": "2024-09-24T20:16:16.000Z",
+        "rating": 1,
+        "files": [
+          "https://cdn.fixly.pl/feedback/2790458-382c27ca75ecb7ccafc1700aae9f3762.jpg",
+          "https://cdn.fixly.pl/feedback/2790458-07d7d31bf07e144440a32e3281607c77.jpg",
+          "https://cdn.fixly.pl/feedback/2790458-11c4cc6e013666c76cd196a9ecd0f8e8.jpg",
+          "https://cdn.fixly.pl/feedback/2790458-e260e481c4be474495130768938e4744.jpg",
+          "https://cdn.fixly.pl/feedback/2790458-1a48ef11106ca6d03387e966f47bc5f6.jpg"
+        ],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Kuchnia na wymiar"
+        ],
+        "l4Slug": "kuchnia-na-wymiar",
+        "reply": {
+          "id": "47680",
+          "comment": "Zdjęcie numer jeden, element który klient zgubił na budowie przez ogromny bałagan - poinformowałem o możliwości otrzymania nowego.\nZdjęcie numer dwa - przed zamówieniem informowałem, że takie historie mogą mieć miejsce z uwagi na fakt że budynek przez wykonawce został bardzo źle postawiony, ściany każda ucieka z kąta, natomiast odchyły od pionu na ścianach wynoszą nawet 3cm.\nZdjęcie numer trzy cztery oraz pięć to ja nie wiem co się działo po moim odjeżdzie, usterek nie było a wyciecie w blacie nie stanowiło przedmiotu umowy, kto co tam rzeźbił później to ja nie wiem. Nie polecam współpracy.\n",
+          "status": "approved",
+          "createdAt": "2024-09-24T20:31:07.000Z",
+          "updatedAt": "2024-09-25T07:41:30.000Z",
+          "__typename": "ProviderFeedbackReply"
+        },
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1157404",
+        "comment": "",
+        "authorFirstName": "Beata",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-59c27d72-3a6d-40ea-a529-337d2c9beae9-7917596054e8fc4efd28fe98faa58e37.png",
+        "categoryName": "Montaż mebli",
+        "cityName": "Opole",
+        "createdAt": "2024-08-26T15:52:55.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Montaż mebli"
+        ],
+        "l4Slug": "montaz-mebli",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1156556",
+        "comment": "super! polecam 😉",
+        "authorFirstName": "Karolina",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-1dfa5c97-ddd6-432e-a3db-c376bd914c49-a9e6d0898b91c1a1637e7476c4f6f742.png",
+        "categoryName": "Szafy na wymiar",
+        "cityName": "Opole",
+        "createdAt": "2024-08-24T12:42:07.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Szafy na wymiar"
+        ],
+        "l4Slug": "szafy-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1144766",
+        "comment": "Właśnie odebrałam od kuriera szafkę łazienkową wykonaną na wymiar przez pana Tomasza. Dawno nie spotkałam się z takim profesjonalizmem. Szafka wykonana jest ściśle wg wytycznych, z największą starannością, a pan Tomasz to życzliwy, kontaktowy, otwarty, służący radami i wskazówkami fachowiec. Dodam, że szafka przemierzyła całą Polskę, z zachodu na wschód, doskonale zabezpieczona. Dziękuję najserdeczniej i  polecam usługi pana Tomasza. Jest Pan wielki! :) Życzę kolejnych zadowolonych klientów!",
+        "authorFirstName": "Małgorzata",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-0e002017-c981-4001-8cab-8be2690c4d50-a3bd7614364a019ff19453fe3cf469e0.png",
+        "categoryName": "Meble na wymiar",
+        "cityName": "Biała Podlaska",
+        "createdAt": "2024-08-01T15:31:38.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Meble na wymiar"
+        ],
+        "l4Slug": "meble-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1132399",
+        "comment": "Pan Tomasz wykonał dla nas dwie garderoby. Realizacja była bardzo szybka, montaż trwał jeden dzień. Jesteśmy bardzo zadowoleni z realizacji i będziemy polecać!",
+        "authorFirstName": "Anna",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-2122512-80b875dc13773974a5717b6edf7858c4.png",
+        "categoryName": "Szafy na wymiar",
+        "cityName": "Opole",
+        "createdAt": "2024-07-11T10:37:29.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Szafy na wymiar"
+        ],
+        "l4Slug": "szafy-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1123136",
+        "comment": "Polecam. \nSzybki , dokładny montaż  w dobrej cenie.",
+        "authorFirstName": "Rafał",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-63d4fda3-1a4a-408f-9825-049eafb8969a-a186e495cba6daf881e733dad2e79a55.png",
+        "categoryName": "Blaty kuchenne na wymiar",
+        "cityName": "Nysa",
+        "createdAt": "2024-06-24T19:30:52.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Blaty kuchenne na wymiar"
+        ],
+        "l4Slug": "blaty-kuchenne-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1119948",
+        "comment": "Współpraca jak zawsze, nic więcej nie trzeba dodawać . Polecam !",
+        "authorFirstName": "Zygmunt",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-1126590-36a6379abda5ae2b02a5b5ab867b3983.png",
+        "categoryName": "Szafy na wymiar",
+        "cityName": "Opole",
+        "createdAt": "2024-06-18T16:54:58.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": true,
+        "l4CategoryNames": [
+          "Meble łazienkowe na wymiar",
+          "Szafy na wymiar",
+          "Meble kuchenne na wymiar"
+        ],
+        "l4Slug": "szafy-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1116105",
+        "comment": "Wszystko szybko i jakościowo! Polecam ",
+        "authorFirstName": "Piotr",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-2219629-8f87b32dfaa2ecaab01ea4abaee76f1a.png",
+        "categoryName": "Montaż mebli",
+        "cityName": "Opole",
+        "createdAt": "2024-06-11T13:19:57.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Montaż mebli"
+        ],
+        "l4Slug": "montaz-mebli",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1113612",
+        "comment": "Szybko, czysto i w zasadzie bez zastrzeżeń. Polecam.",
+        "authorFirstName": "Ewa",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-82c7cf18-ddd4-4749-b727-4c83c0e27da7-f0debeda8a63200c0eee0822ee92daf1.png",
+        "categoryName": "Stolarz",
+        "cityName": "Żużela",
+        "createdAt": "2024-06-06T10:30:48.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Montaż mebli",
+          "Stolarz",
+          "Skręcanie mebli"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1110898",
+        "comment": "Wszystko zgodnie z zamówieniem.",
+        "authorFirstName": "Izabela",
+        "authorGender": "2",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-74b696ab-69fc-46be-8657-1fdd82d1f418-8cf8d5c9b1f176ae5a660b077f4ce826.png",
+        "categoryName": "Wieszanie szafek kuchennych",
+        "cityName": "Opole",
+        "createdAt": "2024-06-01T09:31:21.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Wieszanie szafek kuchennych",
+          "Szafy na wymiar",
+          "Meble łazienkowe na wymiar"
+        ],
+        "l4Slug": "wieszanie-szafek-kuchennych",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1075687",
+        "comment": "Dobry kontakt i szybki czas realizacji. Spełnił oczekiwania. ",
+        "authorFirstName": "Sebastian",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-94fc241c-76a0-4b72-9182-de8e9637b0f7-83985eb103c71d77cabf911901a0e27f.png",
+        "categoryName": "Stolarz",
+        "cityName": "Opole",
+        "createdAt": "2024-03-23T09:46:23.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Stolarz"
+        ],
+        "l4Slug": "pozostale-uslugi-stolarskie",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1054502",
+        "comment": "Szybko i sprawnie. Polecam.",
+        "authorFirstName": "Maciej",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-2254860-d6dbda0591ac4a1f2514becf8aa00084.png",
+        "categoryName": "Blaty kuchenne na wymiar",
+        "cityName": "Opole",
+        "createdAt": "2024-02-16T11:17:50.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Blaty kuchenne na wymiar"
+        ],
+        "l4Slug": "blaty-kuchenne-na-wymiar",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      },
+      {
+        "id": "1051679",
+        "comment": "Sprawie,Szybko,Dokładnie\n",
+        "authorFirstName": "Grzegorz",
+        "authorGender": "1",
+        "authorAvatarUrl": "https://cdn.fixly.pl/avatar/generated-4ceab7ff-3ebe-46d1-98c8-8512a1cdf879-a13c2d027372d78c612e0ac76aa0a77e.png",
+        "categoryName": "Montaż mebli",
+        "cityName": "Mechnice",
+        "createdAt": "2024-02-11T15:37:53.000Z",
+        "rating": 5,
+        "files": [],
+        "seen": true,
+        "isExternal": false,
+        "l4CategoryNames": [
+          "Montaż mebli"
+        ],
+        "l4Slug": "montaz-mebli",
+        "reply": null,
+        "__typename": "PublicProfileFeedback"
+      }
+    ],
+    "profileBySlug": {
+      "id": "2849647",
+      "slug": "so7qmueg",
+      "slugAlias": "meble-na-zamowienie",
+      "maskedPhone": " +48XXXXXXXXX ",
+      "email": "kontakt@meblowanko.pl",
+      "firstName": "MEBLE",
+      "lastName": "NA ZAMÓWIENIE",
+      "gender": "1",
+      "avatarUrl": "https://cdn.fixly.pl/avatar/2849647-8d25470b3fcdbfe25c3dbe80fb7ed93b.jpg",
+      "coverUrl": "https://cdn.fixly.pl/cover/2849647-6e7447b4d3c3a7692bc8f96dfb6c2d90.jpg",
+      "address": "",
+      "badges": [
+        {
+          "id": "YearsOfExperience",
+          "title": "6 lat doświadczenia",
+          "tooltip": "<strong>MEBLE NA ZAMÓWIENIE</strong> świadczy usługi od 2020 roku",
+          "actionTitle": null,
+          "actionUrl": null,
+          "__typename": "ProfileBadge"
+        },
+        {
+          "id": "VerifiedCompany",
+          "title": "Dane firmy sprawdzone w GUS",
+          "tooltip": null,
+          "actionTitle": "Twoje prawa",
+          "actionUrl": "https://pomoc.fixly.pl/hc/pl/articles/10357081688210-Twoje-prawa-w-przypadku-wykonawc%C3%B3w-b%C4%99d%C4%85cych-przedsi%C4%99biorcami",
+          "__typename": "ProfileBadge"
+        },
+        {
+          "id": "TimeOnFixly",
+          "title": "3 lata na Fixly",
+          "tooltip": null,
+          "actionTitle": null,
+          "actionUrl": null,
+          "__typename": "ProfileBadge"
+        }
+      ],
+      "services": [
+        {
+          "id": "1395",
+          "name": "Kuchnia na wymiar",
+          "htmlName": "Kuchnia na wymiar",
+          "slug": "zlecenia-kuchnia-na-wymiar",
+          "featured": true,
+          "showInMenu": false,
+          "parentName": "Meble i zabudowa",
+          "parentIconUrl": "https://fixly.pl/s3/img/top_category_images/meble-i-zabudowa.png",
+          "coverUrl": "https://cdn.fixly.pl/img/category_covers/24.jpg",
+          "boxCoverUrl": "https://cdn.fixly.pl/img/category_covers/mobile/24.jpg",
+          "avgResponseTime": "10 godz.",
+          "avgResponseTimeSeconds": 36378,
+          "requestCountSinceLastWeek": 56,
+          "mainCategory": {
+            "id": "105",
+            "name": "Meble i zabudowa",
+            "slug": "meble-i-zabudowa",
+            "__typename": "HeadCategory"
+          },
+          "l4Categories": [
+            {
+              "id": "1395",
+              "name": "Meble kuchenne na wymiar",
+              "slug": "meble-kuchenne-na-wymiar",
+              "parentId": "1395",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            }
+          ],
+          "__typename": "Category"
+        },
+        {
+          "id": "2010",
+          "name": "Meble na wymiar",
+          "htmlName": "Meble na wymiar",
+          "slug": "zlece-wykonanie-mebli",
+          "featured": false,
+          "showInMenu": false,
+          "parentName": "Meble i zabudowa",
+          "parentIconUrl": "https://fixly.pl/s3/img/top_category_images/meble-i-zabudowa.png",
+          "coverUrl": "https://cdn.fixly.pl/img/category_covers/",
+          "boxCoverUrl": "https://cdn.fixly.pl/img/category_covers/",
+          "avgResponseTime": "7 godz.",
+          "avgResponseTimeSeconds": 24481,
+          "requestCountSinceLastWeek": 190,
+          "mainCategory": {
+            "id": "105",
+            "name": "Meble i zabudowa",
+            "slug": "meble-i-zabudowa",
+            "__typename": "HeadCategory"
+          },
+          "l4Categories": [
+            {
+              "id": "2110",
+              "name": "Meble na wymiar",
+              "slug": "meble-na-wymiar",
+              "parentId": "2010",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            },
+            {
+              "id": "2111",
+              "name": "Meble łazienkowe na wymiar",
+              "slug": "meble-lazienkowe-na-wymiar",
+              "parentId": "2010",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            }
+          ],
+          "__typename": "Category"
+        },
+        {
+          "id": "1393",
+          "name": "Montaż mebli",
+          "htmlName": "Montaż mebli",
+          "slug": "zlecenia-montaz-mebli",
+          "featured": true,
+          "showInMenu": false,
+          "parentName": "Meble i zabudowa",
+          "parentIconUrl": "https://fixly.pl/s3/img/top_category_images/meble-i-zabudowa.png",
+          "coverUrl": "https://cdn.fixly.pl/img/category_covers/27.jpg",
+          "boxCoverUrl": "https://cdn.fixly.pl/img/category_covers/mobile/27.jpg",
+          "avgResponseTime": "21 min",
+          "avgResponseTimeSeconds": 1232,
+          "requestCountSinceLastWeek": 543,
+          "mainCategory": {
+            "id": "105",
+            "name": "Meble i zabudowa",
+            "slug": "meble-i-zabudowa",
+            "__typename": "HeadCategory"
+          },
+          "l4Categories": [
+            {
+              "id": "1393",
+              "name": "Montaż mebli",
+              "slug": "montaz-mebli",
+              "parentId": "1393",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            },
+            {
+              "id": "2511",
+              "name": "Skręcanie mebli",
+              "slug": "skrecanie-mebli",
+              "parentId": "1393",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            },
+            {
+              "id": "2512",
+              "name": "Wieszanie szafek kuchennych",
+              "slug": "wieszanie-szafek-kuchennych",
+              "parentId": "1393",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            }
+          ],
+          "__typename": "Category"
+        },
+        {
+          "id": "1377",
+          "name": "Szafy na wymiar",
+          "htmlName": "Szafy na wymiar",
+          "slug": "zlecenia-szafy-na-wymiar",
+          "featured": true,
+          "showInMenu": false,
+          "parentName": "Meble i zabudowa",
+          "parentIconUrl": "https://fixly.pl/s3/img/top_category_images/meble-i-zabudowa.png",
+          "coverUrl": "https://cdn.fixly.pl/img/category_covers/1351.jpg",
+          "boxCoverUrl": "https://cdn.fixly.pl/img/category_covers/mobile/1351.jpg",
+          "avgResponseTime": "7 godz.",
+          "avgResponseTimeSeconds": 25368,
+          "requestCountSinceLastWeek": 159,
+          "mainCategory": {
+            "id": "105",
+            "name": "Meble i zabudowa",
+            "slug": "meble-i-zabudowa",
+            "__typename": "HeadCategory"
+          },
+          "l4Categories": [
+            {
+              "id": "1377",
+              "name": "Szafy na wymiar",
+              "slug": "szafy-na-wymiar",
+              "parentId": "1377",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            }
+          ],
+          "__typename": "Category"
+        },
+        {
+          "id": "1394",
+          "name": "Usługi stolarskie",
+          "htmlName": "Usługi stolarskie",
+          "slug": "zlecenia-stolarskie",
+          "featured": true,
+          "showInMenu": false,
+          "parentName": "Meble i zabudowa",
+          "parentIconUrl": "https://fixly.pl/s3/img/top_category_images/meble-i-zabudowa.png",
+          "coverUrl": "https://cdn.fixly.pl/img/category_covers/1394-X3CoDNj7GW.jpg",
+          "boxCoverUrl": "https://cdn.fixly.pl/img/category_covers/1394-m7rHdW92nH.jpg",
+          "avgResponseTime": "20 godz.",
+          "avgResponseTimeSeconds": 72508,
+          "requestCountSinceLastWeek": 307,
+          "mainCategory": {
+            "id": "105",
+            "name": "Meble i zabudowa",
+            "slug": "meble-i-zabudowa",
+            "__typename": "HeadCategory"
+          },
+          "l4Categories": [
+            {
+              "id": "2488",
+              "name": "Stolarnia",
+              "slug": "stolarnia",
+              "parentId": "1394",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            },
+            {
+              "id": "2487",
+              "name": "Kuchnia na wymiar",
+              "slug": "kuchnia-na-wymiar",
+              "parentId": "1394",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            },
+            {
+              "id": "2486",
+              "name": "Fronty meblowe na wymiar",
+              "slug": "fronty-meblowe-na-wymiar",
+              "parentId": "1394",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            },
+            {
+              "id": "2485",
+              "name": "Blaty kuchenne na wymiar",
+              "slug": "blaty-kuchenne-na-wymiar",
+              "parentId": "1394",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            },
+            {
+              "id": "1394",
+              "name": "Stolarz",
+              "slug": "pozostale-uslugi-stolarskie",
+              "parentId": "1394",
+              "isNew": false,
+              "isPayWithFixly": false,
+              "__typename": "L4Category"
+            }
+          ],
+          "__typename": "Category"
+        }
+      ],
+      "specializations": [
+        {
+          "id": "110",
+          "name": "Montaż i naprawa",
+          "slug": "montaz-i-naprawa",
+          "imageUrl": "https://fixly.pl/s3/img/top_category_images/montaz-i-naprawa.png",
+          "services": [
+            {
+              "id": "2025",
+              "name": "Alarmy i monitoring",
+              "slug": "zlecenia-na-alarmy-i-monitoring",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2004",
+              "name": "Balustrady i poręcze",
+              "slug": "zlecenia-na-wykonanie-balustrady",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1386",
+              "name": "Biały montaż",
+              "slug": "zlecenia-bialy-montaz",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2040",
+              "name": "Bramy wjazdowe i garażowe",
+              "slug": "zlecenia-na-wykonanie-ogrodzenia",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1388",
+              "name": "Instalacja elektryczna",
+              "slug": "zlecenia-dla-elektrykow",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2012",
+              "name": "Instalacje sanitarne",
+              "slug": "zlecenia-na-instalacje-sanitarne",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2067",
+              "name": "Kaletnik",
+              "slug": "zlecenia-dla-kaletnikow",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2023",
+              "name": "Klimatyzacja",
+              "slug": "zlecenia-na-klimatyzacja",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1384",
+              "name": "Konstrukcje kartonowo-gipsowe",
+              "slug": "zlecenia-na-konstrukcje-kartonowo-gipsowe",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2043",
+              "name": "Montaż anten",
+              "slug": "zlecenia-montaz-anten",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1385",
+              "name": "Montaż i naprawa kabin prysznicowych",
+              "slug": "zlecenia-montaz-i-naprawa-kabin",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1382",
+              "name": "Montaż i naprawa okien",
+              "slug": "zlecenia-montaz-okien",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1383",
+              "name": "Montaż i regulacja drzwi",
+              "slug": "zlecenia-montaz-i-regulacja-drzwi",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1393",
+              "name": "Montaż mebli",
+              "slug": "zlecenia-montaz-mebli",
+              "checked": true,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2044",
+              "name": "Montaż paneli fotowoltaicznych",
+              "slug": "zlecenia-montaz-paneli-fotowoltaicznych",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2007",
+              "name": "Montaż rolet i karniszy",
+              "slug": "zlecenia-montaz-rolet-i-karniszy",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2045",
+              "name": "Montaż wentylacji i rekuperacji",
+              "slug": "zlecenia-montaz-wentylacji-i-rekuperacji",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2159",
+              "name": "Naprawa rowerów",
+              "slug": "zlecenia-naprawa-rowerow",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2036",
+              "name": "Naprawa sprzętu AGD",
+              "slug": "zlecenia-naprawa-sprzetu-agd",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2110",
+              "name": "Naprawa sprzętu biurowego",
+              "slug": "zlecenia-naprawa-sprzetu-biurowego",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2068",
+              "name": "Naprawa telewizorów",
+              "slug": "zlecenia-naprawa-telewizorow",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2024",
+              "name": "Piece grzewcze",
+              "slug": "zlecenia-piece-grzewcze",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1390",
+              "name": "Podłączanie sprzętu AGD",
+              "slug": "zlecenia-podlaczanie-i-naprawa-sprzetu-agd",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2053",
+              "name": "Rozwiązania smart home",
+              "slug": "zlecenia-rozwiazania-smart-home",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2152",
+              "name": "Serwis komputerów",
+              "slug": "zlecenia-serwis-komputerow",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2151",
+              "name": "Serwis telefonów",
+              "slug": "zlecenia-serwis-telefonow",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "11",
+              "name": "Spawanie",
+              "slug": "zlecenia-spawanie",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2070",
+              "name": "Szewc",
+              "slug": "zlecenia-szewc",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2009",
+              "name": "Usługi kominiarskie",
+              "slug": "zlecenia-uslugi-kominiarskie",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2063",
+              "name": "Usługi krawieckie",
+              "slug": "zlece-szycie",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "52",
+              "name": "Złota rączka",
+              "slug": "zlecenia-zlota-raczka",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2031",
+              "name": "Ślusarz",
+              "slug": "zlecenia-slusarskie",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "98",
+              "name": "Pozostałe usługi elektryczne",
+              "slug": "zlecenia-pozostale-uslugi-elektryczne",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1387",
+              "name": "Pozostałe usługi hydrauliczne",
+              "slug": "zlecenia-pozostale-uslugi-hydrauliczne",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            }
+          ],
+          "servicesL4": [
+            {
+              "id": "2144",
+              "name": "Audyt energetyczny",
+              "slug": "audyt-energetyczny",
+              "checked": false,
+              "parentId": "98",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2219",
+              "name": "Automatyka bram",
+              "slug": "automatyka-bram",
+              "checked": false,
+              "parentId": "2040",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2212",
+              "name": "Awaryjne otwieranie drzwi",
+              "slug": "awaryjne-otwieranie-drzwi",
+              "checked": false,
+              "parentId": "2031",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2500",
+              "name": "Balustrada szklana",
+              "slug": "balustrada-szklana",
+              "checked": false,
+              "parentId": "2004",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2082",
+              "name": "Balustrady",
+              "slug": "balustrady",
+              "checked": false,
+              "parentId": "2004",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2084",
+              "name": "Balustrady balkonowe",
+              "slug": "balustrady-balkonowe",
+              "checked": false,
+              "parentId": "2004",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2085",
+              "name": "Balustrady drewniane",
+              "slug": "balustrady-drewniane",
+              "checked": false,
+              "parentId": "2004",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2501",
+              "name": "Balustrady nierdzewne",
+              "slug": "balustrady-nierdzewne",
+              "checked": false,
+              "parentId": "2004",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2083",
+              "name": "Balustrady schodowe",
+              "slug": "balustrady-schodowe",
+              "checked": false,
+              "parentId": "2004",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1386",
+              "name": "Biały montaż",
+              "slug": "bialy-montaz",
+              "checked": false,
+              "parentId": "1386",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2059",
+              "name": "Budowa ścianki działowej",
+              "slug": "budowa-scianki-dzialowej",
+              "checked": false,
+              "parentId": "1384",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2473",
+              "name": "Czyszczenie kanalizacji",
+              "slug": "czyszczenie-kanalizacji",
+              "checked": false,
+              "parentId": "1387",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2151",
+              "name": "Czyszczenie klimatyzacji",
+              "slug": "czyszczenie-klimatyzacji",
+              "checked": false,
+              "parentId": "2023",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2106",
+              "name": "Czyszczenie komina",
+              "slug": "czyszczenie-komina",
+              "checked": false,
+              "parentId": "2009",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "52",
+              "name": "Drobne naprawy",
+              "slug": "drobne-naprawy",
+              "checked": false,
+              "parentId": "52",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2107",
+              "name": "Frezowanie komina",
+              "slug": "frezowanie-komina",
+              "checked": false,
+              "parentId": "2009",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2118",
+              "name": "Instalacja gazowa",
+              "slug": "instalacja-gazowa",
+              "checked": false,
+              "parentId": "2012",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2224",
+              "name": "Instalacja urządzeń smart home",
+              "slug": "instalacja-urzadzen-smart-home",
+              "checked": false,
+              "parentId": "2053",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2119",
+              "name": "Instalacja wodna",
+              "slug": "instalacja-wodna",
+              "checked": false,
+              "parentId": "2012",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1388",
+              "name": "Instalacje elektryczne",
+              "slug": "instalacje-elektryczne",
+              "checked": false,
+              "parentId": "1388",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2283",
+              "name": "Kaletnik",
+              "slug": "kaletnik",
+              "checked": false,
+              "parentId": "2067",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2109",
+              "name": "Kominiarz",
+              "slug": "pozostale-uslugi-kominiarskie",
+              "checked": false,
+              "parentId": "2009",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2225",
+              "name": "Konstrukcje z płyt gk",
+              "slug": "konstrukcje-z-plyt-gk",
+              "checked": false,
+              "parentId": "1384",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2290",
+              "name": "Krawcowa",
+              "slug": "uslugi-krawieckie",
+              "checked": false,
+              "parentId": "2063",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2163",
+              "name": "Montaż alarmu domowego",
+              "slug": "montaz-alarmu-domowego",
+              "checked": false,
+              "parentId": "2025",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2227",
+              "name": "Montaż anten",
+              "slug": "montaz-anten",
+              "checked": false,
+              "parentId": "2043",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2432",
+              "name": "Montaż baterii podtynkowej",
+              "slug": "montaz-baterii-podtynkowej",
+              "checked": false,
+              "parentId": "1386",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2228",
+              "name": "Montaż bramy garażowej",
+              "slug": "montaz-bramy-garazowej",
+              "checked": false,
+              "parentId": "2040",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2434",
+              "name": "Montaż bramy przesuwnej",
+              "slug": "montaz-bramy-przesuwnej",
+              "checked": false,
+              "parentId": "2040",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2229",
+              "name": "Montaż bramy wjazdowej",
+              "slug": "montaz-bramy-wjazdowej",
+              "checked": false,
+              "parentId": "2040",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2121",
+              "name": "Montaż brodzika",
+              "slug": "montaz-brodzika",
+              "checked": false,
+              "parentId": "1385",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2437",
+              "name": "Montaż domofonu",
+              "slug": "montaz-domofonu",
+              "checked": false,
+              "parentId": "1388",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1383",
+              "name": "Montaż drzwi",
+              "slug": "montaz-drzwi",
+              "checked": false,
+              "parentId": "1383",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2055",
+              "name": "Montaż drzwi przesuwnych",
+              "slug": "montaz-drzwi-przesuwnych",
+              "checked": false,
+              "parentId": "1383",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2132",
+              "name": "Montaż instalacji odgromowej",
+              "slug": "montaz-instalacji-odgromowej",
+              "checked": false,
+              "parentId": "98",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1385",
+              "name": "Montaż kabiny prysznicowej",
+              "slug": "montaz-kabiny-prysznicowej",
+              "checked": false,
+              "parentId": "1385",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2103",
+              "name": "Montaż karniszy",
+              "slug": "montaz-karniszy",
+              "checked": false,
+              "parentId": "2007",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2150",
+              "name": "Montaż klimatyzacji",
+              "slug": "montaz-klimatyzacji",
+              "checked": false,
+              "parentId": "2023",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2230",
+              "name": "Montaż kolektorów słonecznych",
+              "slug": "montaz-kolektorow-slonecznych",
+              "checked": false,
+              "parentId": "2044",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1393",
+              "name": "Montaż mebli",
+              "slug": "montaz-mebli",
+              "checked": true,
+              "parentId": "1393",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2164",
+              "name": "Montaż monitoringu",
+              "slug": "montaz-monitoringu",
+              "checked": false,
+              "parentId": "2025",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2474",
+              "name": "Montaż odpływu liniowego",
+              "slug": "montaz-odplywu-liniowego",
+              "checked": false,
+              "parentId": "1387",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2438",
+              "name": "Montaż ogranicznika przepięć",
+              "slug": "montaz-ogranicznika-przepiec",
+              "checked": false,
+              "parentId": "1388",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1382",
+              "name": "Montaż okien",
+              "slug": "montaz-okien",
+              "checked": false,
+              "parentId": "1382",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2464",
+              "name": "Montaż okna dachowego",
+              "slug": "montaz-okna-dachowego",
+              "checked": false,
+              "parentId": "1382",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2231",
+              "name": "Montaż paneli fotowoltaicznych",
+              "slug": "montaz-paneli-fotowoltaicznych",
+              "checked": false,
+              "parentId": "2044",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2051",
+              "name": "Montaż parapetów",
+              "slug": "montaz-parapetow",
+              "checked": false,
+              "parentId": "1382",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2136",
+              "name": "Montaż płyty indukcyjnej",
+              "slug": "montaz-plyty-indukcyjnej",
+              "checked": false,
+              "parentId": "1390",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2233",
+              "name": "Montaż rekuperacji",
+              "slug": "montaz-rekuperacji",
+              "checked": false,
+              "parentId": "2045",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2102",
+              "name": "Montaż rolet",
+              "slug": "montaz-rolet",
+              "checked": false,
+              "parentId": "2007",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2443",
+              "name": "Montaż sufitu kasetonowego",
+              "slug": "montaz-sufitu-kasetonowego",
+              "checked": false,
+              "parentId": "1384",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2058",
+              "name": "Montaż sufitu napinanego",
+              "slug": "montaz-sufitu-napinanego",
+              "checked": false,
+              "parentId": "1384",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1384",
+              "name": "Montaż sufitu podwieszanego",
+              "slug": "montaz-sufitu-podwieszanego",
+              "checked": false,
+              "parentId": "1384",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2494",
+              "name": "Montaż telewizora na ścianie",
+              "slug": "montaz-telewizora-na-scianie",
+              "checked": false,
+              "parentId": "52",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2433",
+              "name": "Montaż umywalki nablatowej",
+              "slug": "montaz-umywalki-nablatowej",
+              "checked": false,
+              "parentId": "1386",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2123",
+              "name": "Montaż wanny",
+              "slug": "montaz-wanny",
+              "checked": false,
+              "parentId": "1386",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1375",
+              "name": "Montaż WC",
+              "slug": "montaz-wc",
+              "checked": false,
+              "parentId": "1386",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2234",
+              "name": "Montaż wentylacji",
+              "slug": "montaz-wentylacji",
+              "checked": false,
+              "parentId": "2045",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2544",
+              "name": "Montaż żyrandola",
+              "slug": "montaz-zyrandola",
+              "checked": false,
+              "parentId": "52",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2350",
+              "name": "Naprawa drukarek",
+              "slug": "naprawa-drukarek",
+              "checked": false,
+              "parentId": "2110",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2479",
+              "name": "Naprawa karty graficznej",
+              "slug": "naprawa-karty-graficznej",
+              "checked": false,
+              "parentId": "2152",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2152",
+              "name": "Naprawa klimatyzacji",
+              "slug": "naprawa-klimatyzacji",
+              "checked": false,
+              "parentId": "2023",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2140",
+              "name": "Naprawa kuchenki gazowej",
+              "slug": "naprawa-kuchenki-gazowej",
+              "checked": false,
+              "parentId": "2036",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2480",
+              "name": "Naprawa laptopów",
+              "slug": "naprawa-laptopow",
+              "checked": false,
+              "parentId": "2152",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2138",
+              "name": "Naprawa lodówki",
+              "slug": "naprawa-lodowki",
+              "checked": false,
+              "parentId": "2036",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2289",
+              "name": "Naprawa obuwia",
+              "slug": "naprawa-obuwia",
+              "checked": false,
+              "parentId": "2070",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2047",
+              "name": "Naprawa okien",
+              "slug": "naprawa-okien",
+              "checked": false,
+              "parentId": "1382",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2215",
+              "name": "Naprawa pralki",
+              "slug": "naprawa-pralki",
+              "checked": false,
+              "parentId": "2036",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2517",
+              "name": "Naprawa rowerów",
+              "slug": "naprawa-rowerow",
+              "checked": false,
+              "parentId": "2159",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2137",
+              "name": "Naprawa sprzętu AGD",
+              "slug": "naprawa-sprzetu-agd",
+              "checked": false,
+              "parentId": "2036",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2475",
+              "name": "Naprawa spłuczki",
+              "slug": "naprawa-spluczki",
+              "checked": false,
+              "parentId": "1387",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2481",
+              "name": "Naprawa tabletów",
+              "slug": "naprawa-tabletow",
+              "checked": false,
+              "parentId": "2151",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2482",
+              "name": "Naprawa telefonów",
+              "slug": "naprawa-telefonow",
+              "checked": false,
+              "parentId": "2151",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2284",
+              "name": "Naprawa telewizorów",
+              "slug": "naprawa-telewizorow",
+              "checked": false,
+              "parentId": "2068",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2139",
+              "name": "Naprawa zmywarki",
+              "slug": "naprawa-zmywarki",
+              "checked": false,
+              "parentId": "2036",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2439",
+              "name": "Odbiór instalacji elektrycznej",
+              "slug": "odbior-instalacji-elektrycznej",
+              "checked": false,
+              "parentId": "1388",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2153",
+              "name": "Odgrzybianie klimatyzacji",
+              "slug": "odgrzybianie-klimatyzacji",
+              "checked": false,
+              "parentId": "2023",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2126",
+              "name": "Odpowietrzanie kaloryferów",
+              "slug": "odpowietrzanie-kaloryferow",
+              "checked": false,
+              "parentId": "1387",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1390",
+              "name": "Podłączanie sprzętu AGD",
+              "slug": "podlaczanie-sprzetu-agd",
+              "checked": false,
+              "parentId": "1390",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2472",
+              "name": "Podłączenie bojlera",
+              "slug": "podlaczenie-bojlera",
+              "checked": false,
+              "parentId": "2024",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2440",
+              "name": "Podłączenie gniazdka",
+              "slug": "podlaczenie-gniazdka",
+              "checked": false,
+              "parentId": "1388",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2135",
+              "name": "Podłączenie kuchenki gazowej",
+              "slug": "podlaczenie-kuchenki-gazowej",
+              "checked": false,
+              "parentId": "1390",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2155",
+              "name": "Podłączenie pieca C.O.",
+              "slug": "podlaczenie-pieca-co",
+              "checked": false,
+              "parentId": "2024",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2134",
+              "name": "Podłączenie zmywarki",
+              "slug": "podlaczenie-zmywarki",
+              "checked": false,
+              "parentId": "1390",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2133",
+              "name": "Pogotowie elektryczne",
+              "slug": "pogotowie-elektryczne",
+              "checked": false,
+              "parentId": "98",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2125",
+              "name": "Pogotowie hydrauliczne",
+              "slug": "pogotowie-hydrauliczne",
+              "checked": false,
+              "parentId": "1387",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2286",
+              "name": "Pogotowie komputerowe",
+              "slug": "pogotowie-komputerowe",
+              "checked": false,
+              "parentId": "2152",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2291",
+              "name": "Poprawki krawieckie",
+              "slug": "poprawki-krawieckie",
+              "checked": false,
+              "parentId": "2063",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2086",
+              "name": "Poręcze do schodów",
+              "slug": "porecze-do-schodow",
+              "checked": false,
+              "parentId": "2004",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2243",
+              "name": "Projektowanie rozwiązań smart home",
+              "slug": "projektowanie-rozwiazan-smart-home",
+              "checked": false,
+              "parentId": "2053",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2244",
+              "name": "Projekty instalacji sanitarnej",
+              "slug": "projekty-instalacji-sanitarnej",
+              "checked": false,
+              "parentId": "2012",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2441",
+              "name": "Przegląd instalacji elektrycznej",
+              "slug": "przeglad-instalacji-elektrycznej",
+              "checked": false,
+              "parentId": "1388",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2442",
+              "name": "Przegląd instalacji gazowej",
+              "slug": "przeglad-instalacji-gazowej",
+              "checked": false,
+              "parentId": "2012",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2056",
+              "name": "Regulacja drzwi",
+              "slug": "regulacja-drzwi",
+              "checked": false,
+              "parentId": "1383",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2049",
+              "name": "Regulacja okien",
+              "slug": "regulacja-okien",
+              "checked": false,
+              "parentId": "1382",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2154",
+              "name": "Serwis klimatyzacji",
+              "slug": "serwis-klimatyzacji",
+              "checked": false,
+              "parentId": "2023",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2285",
+              "name": "Serwis komputerów",
+              "slug": "serwis-komputerow",
+              "checked": false,
+              "parentId": "2152",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2156",
+              "name": "Serwis pieców i kotłów",
+              "slug": "serwis-piecow-i-kotlow",
+              "checked": false,
+              "parentId": "2024",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2287",
+              "name": "Serwis telefonów",
+              "slug": "serwis-telefonow",
+              "checked": false,
+              "parentId": "2151",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2511",
+              "name": "Skręcanie mebli",
+              "slug": "skrecanie-mebli",
+              "checked": true,
+              "parentId": "1393",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2425",
+              "name": "Spawacz",
+              "slug": "spawacz",
+              "checked": false,
+              "parentId": "11",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2426",
+              "name": "Spawanie plastiku",
+              "slug": "spawanie-plastiku",
+              "checked": false,
+              "parentId": "11",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2251",
+              "name": "Sterowanie ogrzewaniem",
+              "slug": "sterowanie-ogrzewaniem",
+              "checked": false,
+              "parentId": "2053",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2252",
+              "name": "Sterowanie oświetleniem",
+              "slug": "sterowanie-oswietleniem",
+              "checked": false,
+              "parentId": "2053",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2165",
+              "name": "Systemy alarmowe",
+              "slug": "systemy-alarmowe",
+              "checked": false,
+              "parentId": "2025",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2288",
+              "name": "Szewc",
+              "slug": "szewc",
+              "checked": false,
+              "parentId": "2070",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2108",
+              "name": "Szlamowanie komina",
+              "slug": "szlamowanie-komina",
+              "checked": false,
+              "parentId": "2009",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2352",
+              "name": "Szwalnia",
+              "slug": "szwalnia",
+              "checked": false,
+              "parentId": "2063",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2276",
+              "name": "Szycie sukien ślubnych",
+              "slug": "szycie-sukien-slubnych",
+              "checked": false,
+              "parentId": "2063",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1325",
+              "name": "Udrażnianie rur",
+              "slug": "udraznianie-rur",
+              "checked": false,
+              "parentId": "1387",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2048",
+              "name": "Uszczelnianie okien",
+              "slug": "uszczelnianie-okien",
+              "checked": false,
+              "parentId": "1382",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2545",
+              "name": "Wiercenie otworów",
+              "slug": "wiercenie-otworow",
+              "checked": false,
+              "parentId": "52",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2546",
+              "name": "Wieszanie obrazów",
+              "slug": "wieszanie-obrazow",
+              "checked": false,
+              "parentId": "52",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2512",
+              "name": "Wieszanie szafek kuchennych",
+              "slug": "wieszanie-szafek-kuchennych",
+              "checked": true,
+              "parentId": "1393",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2131",
+              "name": "Wymiana instalacji elektrycznej",
+              "slug": "wymiana-instalacji-elektrycznej",
+              "checked": false,
+              "parentId": "1388",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2050",
+              "name": "Wymiana okien",
+              "slug": "wymiana-okien",
+              "checked": false,
+              "parentId": "1382",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2214",
+              "name": "Wymiana zamka w drzwiach",
+              "slug": "wymiana-zamka-w-drzwiach",
+              "checked": false,
+              "parentId": "2031",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2444",
+              "name": "Zabudowa g-k",
+              "slug": "zabudowa-g-k",
+              "checked": false,
+              "parentId": "1384",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2476",
+              "name": "Zamrażanie rur",
+              "slug": "zamrazanie-rur",
+              "checked": false,
+              "parentId": "1387",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2211",
+              "name": "Ślusarz",
+              "slug": "slusarz",
+              "checked": false,
+              "parentId": "2031",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "98",
+              "name": "Pozostałe usługi elektryczne",
+              "slug": "pozostale-uslugi-elektryczne",
+              "checked": false,
+              "parentId": "98",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1387",
+              "name": "Pozostałe usługi hydrauliczne",
+              "slug": "pozostale-uslugi-hydrauliczne",
+              "checked": false,
+              "parentId": "1387",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2213",
+              "name": "Pozostałe usługi ślusarskie",
+              "slug": "uslugi-slusarskie",
+              "checked": false,
+              "parentId": "2031",
+              "__typename": "ProviderL4Service"
+            }
+          ],
+          "__typename": "ProviderSpecialization"
+        },
+        {
+          "id": "105",
+          "name": "Meble i zabudowa",
+          "slug": "meble-i-zabudowa",
+          "imageUrl": "https://fixly.pl/s3/img/top_category_images/meble-i-zabudowa.png",
+          "services": [
+            {
+              "id": "2016",
+              "name": "Budowa kominka",
+              "slug": "zlecenia-budowa-kominka",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1395",
+              "name": "Kuchnia na wymiar",
+              "slug": "zlecenia-kuchnia-na-wymiar",
+              "checked": true,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2010",
+              "name": "Meble na wymiar",
+              "slug": "zlece-wykonanie-mebli",
+              "checked": true,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1393",
+              "name": "Montaż mebli",
+              "slug": "zlecenia-montaz-mebli",
+              "checked": true,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "151",
+              "name": "Renowacja i odnawianie mebli",
+              "slug": "zlecenia-renowacja-i-odnawianie-mebli",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1377",
+              "name": "Szafy na wymiar",
+              "slug": "zlecenia-szafy-na-wymiar",
+              "checked": true,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1394",
+              "name": "Usługi stolarskie",
+              "slug": "zlecenia-stolarskie",
+              "checked": true,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2006",
+              "name": "Usługi szklarskie",
+              "slug": "zlecenia-uslugi-szklarskie",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "1392",
+              "name": "Usługi tapicerskie",
+              "slug": "zlecenia-uslugi-tapicerskie",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            },
+            {
+              "id": "2031",
+              "name": "Ślusarz",
+              "slug": "zlecenia-slusarskie",
+              "checked": false,
+              "parentId": null,
+              "__typename": "ProviderService"
+            }
+          ],
+          "servicesL4": [
+            {
+              "id": "2212",
+              "name": "Awaryjne otwieranie drzwi",
+              "slug": "awaryjne-otwieranie-drzwi",
+              "checked": false,
+              "parentId": "2031",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2485",
+              "name": "Blaty kuchenne na wymiar",
+              "slug": "blaty-kuchenne-na-wymiar",
+              "checked": true,
+              "parentId": "1394",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2185",
+              "name": "Budowa kominków",
+              "slug": "budowa-kominkow",
+              "checked": false,
+              "parentId": "2016",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2100",
+              "name": "Drzwi szklane",
+              "slug": "drzwi-szklane",
+              "checked": false,
+              "parentId": "2006",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2486",
+              "name": "Fronty meblowe na wymiar",
+              "slug": "fronty-meblowe-na-wymiar",
+              "checked": true,
+              "parentId": "1394",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2487",
+              "name": "Kuchnia na wymiar",
+              "slug": "kuchnia-na-wymiar",
+              "checked": true,
+              "parentId": "1394",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2097",
+              "name": "Lustra na wymiar",
+              "slug": "lustra-na-wymiar",
+              "checked": false,
+              "parentId": "2006",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2116",
+              "name": "Malowanie mebli",
+              "slug": "malowanie-mebli",
+              "checked": false,
+              "parentId": "151",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1395",
+              "name": "Meble kuchenne na wymiar",
+              "slug": "meble-kuchenne-na-wymiar",
+              "checked": true,
+              "parentId": "1395",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2110",
+              "name": "Meble na wymiar",
+              "slug": "meble-na-wymiar",
+              "checked": true,
+              "parentId": "2010",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2111",
+              "name": "Meble łazienkowe na wymiar",
+              "slug": "meble-lazienkowe-na-wymiar",
+              "checked": true,
+              "parentId": "2010",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1393",
+              "name": "Montaż mebli",
+              "slug": "montaz-mebli",
+              "checked": true,
+              "parentId": "1393",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2115",
+              "name": "Oklejanie mebli",
+              "slug": "oklejanie-mebli",
+              "checked": false,
+              "parentId": "151",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2489",
+              "name": "Panele szklane do kuchni",
+              "slug": "panele-szklane-do-kuchni",
+              "checked": false,
+              "parentId": "2006",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2490",
+              "name": "Panele szklane do łazienki",
+              "slug": "panele-szklane-do-lazienki",
+              "checked": false,
+              "parentId": "2006",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "151",
+              "name": "Renowacja mebli",
+              "slug": "renowacja-mebli",
+              "checked": false,
+              "parentId": "151",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2511",
+              "name": "Skręcanie mebli",
+              "slug": "skrecanie-mebli",
+              "checked": true,
+              "parentId": "1393",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2488",
+              "name": "Stolarnia",
+              "slug": "stolarnia",
+              "checked": true,
+              "parentId": "1394",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1394",
+              "name": "Stolarz",
+              "slug": "pozostale-uslugi-stolarskie",
+              "checked": true,
+              "parentId": "1394",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1377",
+              "name": "Szafy na wymiar",
+              "slug": "szafy-na-wymiar",
+              "checked": true,
+              "parentId": "1377",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2101",
+              "name": "Szklarz",
+              "slug": "pozostale-uslugi-szklarskie",
+              "checked": false,
+              "parentId": "2006",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2099",
+              "name": "Szkło do kuchni",
+              "slug": "szklo-do-kuchni",
+              "checked": false,
+              "parentId": "2006",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2098",
+              "name": "Szkło na wymiar",
+              "slug": "szklo-na-wymiar",
+              "checked": false,
+              "parentId": "2006",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2541",
+              "name": "Szyby na wymiar",
+              "slug": "szyby-na-wymiar",
+              "checked": false,
+              "parentId": "2006",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2113",
+              "name": "Tapicer",
+              "slug": "pozostale-uslugi-tapicerskie",
+              "checked": false,
+              "parentId": "1392",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2491",
+              "name": "Tapicerowanie krzesła",
+              "slug": "tapicerowanie-krzesla",
+              "checked": false,
+              "parentId": "1392",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "1392",
+              "name": "Tapicerowanie mebli",
+              "slug": "tapicerowanie-mebli",
+              "checked": false,
+              "parentId": "1392",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2492",
+              "name": "Tapicerowanie łóżka",
+              "slug": "tapicerowanie-lozka",
+              "checked": false,
+              "parentId": "1392",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2512",
+              "name": "Wieszanie szafek kuchennych",
+              "slug": "wieszanie-szafek-kuchennych",
+              "checked": true,
+              "parentId": "1393",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2214",
+              "name": "Wymiana zamka w drzwiach",
+              "slug": "wymiana-zamka-w-drzwiach",
+              "checked": false,
+              "parentId": "2031",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2184",
+              "name": "Zabudowa kominka",
+              "slug": "zabudowa-kominka",
+              "checked": false,
+              "parentId": "2016",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2542",
+              "name": "Zakład szklarski",
+              "slug": "zaklad-szklarski",
+              "checked": false,
+              "parentId": "2006",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2211",
+              "name": "Ślusarz",
+              "slug": "slusarz",
+              "checked": false,
+              "parentId": "2031",
+              "__typename": "ProviderL4Service"
+            },
+            {
+              "id": "2213",
+              "name": "Pozostałe usługi ślusarskie",
+              "slug": "uslugi-slusarskie",
+              "checked": false,
+              "parentId": "2031",
+              "__typename": "ProviderL4Service"
+            }
+          ],
+          "__typename": "ProviderSpecialization"
+        }
+      ],
+      "companyName": "",
+      "company": {
+        "id": "83108",
+        "nip": "9910564230",
+        "name": "MEBLOWANKO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "contactName": null,
+        "address": "ul. Śluzowa 4, 46-053 Chrząstowice",
+        "foundationDate": "2025-12-11T00:00:00.000Z",
+        "verificationStatus": "VERIFIED",
+        "__typename": "Company"
+      },
+      "publicName": "MEBLE NA ZAMÓWIENIE",
+      "seoDescription": "MEBLE NA ZAMÓWIENIE - świadczę usługi w 15 kategoriach. Opole, ostatnio online - 16.11.2026",
+      "shortDescription": "MEBLE NA ZAMÓWIENIE DOSTĘPNEJ W CAŁEJ POLSCE Z DOSTAWĄ",
+      "longDescription": null,
+      "rewardsAndCertificates": null,
+      "websiteUrl": null,
+      "socialMediaUrl": null,
+      "city": {
+        "id": "12885",
+        "name": "Opole",
+        "slug": "opole",
+        "nameLocativeCase": "w Opolu",
+        "lat": 50.66987,
+        "long": 17.91934,
+        "countryId": "184",
+        "isBig": true,
+        "isDefault": false,
+        "hasCityDistricts": true,
+        "districtNumber": 175,
+        "population": 116108,
+        "districtName": "Opole",
+        "subDistrictName": "Opole",
+        "zipCode": null,
+        "regionId": "12",
+        "districtId": "269",
+        "entityId": "6",
+        "region": {
+          "id": "12",
+          "name": "Opolskie",
+          "number": 16,
+          "code": "O",
+          "center": "Opole",
+          "centerCityId": "12885",
+          "__typename": "Region"
+        },
+        "district": {
+          "id": "269",
+          "name": "Opole",
+          "__typename": "District"
+        },
+        "neighbourhoods": [],
+        "__typename": "City"
+      },
+      "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?center=50.66987%2C17.91934&zoom=6&size=300x160&scale=1&key=AIzaSyDBSI61tFN4Moxu5E9NDvyO8wOJ2A0Glnw&channel=fixly-eu-pl-prod&signature=dDKk5SMaEX1V97gBSCn73-iRkoM=",
+      "location": {
+        "latitude": 50.66987,
+        "longitude": 17.91934,
+        "__typename": "PublicProfileLocation"
+      },
+      "gallery": [
+        {
+          "id": "6229397",
+          "name": "2849647-b9fc472eb79d78c379b3f00e430cdac2.jpg",
+          "title": "Przedpokój",
+          "order": 0,
+          "url": "https://cdn.fixly.pl/gallery/2849647-b9fc472eb79d78c379b3f00e430cdac2.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229405",
+          "name": "2849647-e0f1ff1a3187c85284096d14f23c9fd7.jpg",
+          "title": "Przedpokój",
+          "order": 1,
+          "url": "https://cdn.fixly.pl/gallery/2849647-e0f1ff1a3187c85284096d14f23c9fd7.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229404",
+          "name": "2849647-e1f340bfc9d9b3508959667e71719bc0.jpg",
+          "title": "Przedpokój",
+          "order": 2,
+          "url": "https://cdn.fixly.pl/gallery/2849647-e1f340bfc9d9b3508959667e71719bc0.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229398",
+          "name": "2849647-ac02359e90bf3c4c20690fc223dae18b.jpg",
+          "title": "Sugestia co możemy montować w szafach",
+          "order": 3,
+          "url": "https://cdn.fixly.pl/gallery/2849647-ac02359e90bf3c4c20690fc223dae18b.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229399",
+          "name": "2849647-a5e0b2859e3343810ea9d0506e225f2b.jpg",
+          "title": "Szafa",
+          "order": 4,
+          "url": "https://cdn.fixly.pl/gallery/2849647-a5e0b2859e3343810ea9d0506e225f2b.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229400",
+          "name": "2849647-f0c27c77bb2b3ad538b94f83768f3ac1.jpg",
+          "title": "Szafa",
+          "order": 5,
+          "url": "https://cdn.fixly.pl/gallery/2849647-f0c27c77bb2b3ad538b94f83768f3ac1.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229401",
+          "name": "2849647-4f93de23efb82b06464c85bee6a7834c.jpg",
+          "title": "Szafa",
+          "order": 6,
+          "url": "https://cdn.fixly.pl/gallery/2849647-4f93de23efb82b06464c85bee6a7834c.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229402",
+          "name": "2849647-26f10d06ae2c6bb7fc353644a7c35166.jpg",
+          "title": "Kuchnia",
+          "order": 7,
+          "url": "https://cdn.fixly.pl/gallery/2849647-26f10d06ae2c6bb7fc353644a7c35166.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229403",
+          "name": "2849647-27a15c1315e148633ea80ed0b1a4f33d.jpg",
+          "title": "Kuchnia",
+          "order": 8,
+          "url": "https://cdn.fixly.pl/gallery/2849647-27a15c1315e148633ea80ed0b1a4f33d.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229406",
+          "name": "2849647-01f45850614271c41fc3987a22fe5985.jpg",
+          "title": "Szafka nad WC",
+          "order": 9,
+          "url": "https://cdn.fixly.pl/gallery/2849647-01f45850614271c41fc3987a22fe5985.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229407",
+          "name": "2849647-065474b475697b43c50a7f2fd96c9e5f.jpg",
+          "title": "Zabudowa w łazience",
+          "order": 10,
+          "url": "https://cdn.fixly.pl/gallery/2849647-065474b475697b43c50a7f2fd96c9e5f.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229408",
+          "name": "2849647-64cc4fd6d1ef41ec130f0f00d7372fd6.jpg",
+          "title": "Regały w pralni",
+          "order": 11,
+          "url": "https://cdn.fixly.pl/gallery/2849647-64cc4fd6d1ef41ec130f0f00d7372fd6.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229409",
+          "name": "2849647-dc356fa362f32471d0f73d3be44d9bd7.jpg",
+          "title": "Biblioteka",
+          "order": 12,
+          "url": "https://cdn.fixly.pl/gallery/2849647-dc356fa362f32471d0f73d3be44d9bd7.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229410",
+          "name": "2849647-ae04ed919b40d531bda6a0d8b10e1ce7.jpg",
+          "title": "Garderoba",
+          "order": 13,
+          "url": "https://cdn.fixly.pl/gallery/2849647-ae04ed919b40d531bda6a0d8b10e1ce7.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229411",
+          "name": "2849647-cb5c4ea0274263fdd7f123c5dff21f53.jpg",
+          "title": "Garderoba",
+          "order": 14,
+          "url": "https://cdn.fixly.pl/gallery/2849647-cb5c4ea0274263fdd7f123c5dff21f53.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229412",
+          "name": "2849647-f55c0326b911fd2a1d34fb522fe6f010.jpg",
+          "title": "Szafka TV",
+          "order": 15,
+          "url": "https://cdn.fixly.pl/gallery/2849647-f55c0326b911fd2a1d34fb522fe6f010.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229413",
+          "name": "2849647-b422dc932884defa2bec455ea01666a3.jpg",
+          "title": "Zestaw pod RTV",
+          "order": 16,
+          "url": "https://cdn.fixly.pl/gallery/2849647-b422dc932884defa2bec455ea01666a3.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229414",
+          "name": "2849647-a2fc699726f2127785ef36b9309f3671.jpg",
+          "title": "Szafa z drzwiami przesuwnymi",
+          "order": 17,
+          "url": "https://cdn.fixly.pl/gallery/2849647-a2fc699726f2127785ef36b9309f3671.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229415",
+          "name": "2849647-25e89e9a204006c1e11a0f8f7f9e80f8.jpg",
+          "title": "Wymiana blatu w użytkowanej kuchni",
+          "order": 18,
+          "url": "https://cdn.fixly.pl/gallery/2849647-25e89e9a204006c1e11a0f8f7f9e80f8.jpg",
+          "__typename": "Image"
+        },
+        {
+          "id": "6229416",
+          "name": "2849647-544f0821aa2921dc2e50990639cce424.jpg",
+          "title": "Zabudowa ściany i ukryta szafa w niej",
+          "order": 19,
+          "url": "https://cdn.fixly.pl/gallery/2849647-544f0821aa2921dc2e50990639cce424.jpg",
+          "__typename": "Image"
+        }
+      ],
+      "dateRegistered": "2023-12-03T13:02:59.000Z",
+      "featured": true,
+      "lastActivity": "2026-11-16T20:42:06.000Z",
+      "yearsOfExperience": 6,
+      "yearEstablished": 2020,
+      "avgResponseTimeSeconds": null,
+      "avgResponseTime": null,
+      "radius": 300000,
+      "searchIndexing": "index_admin",
+      "isEmailPublic": false,
+      "isNewcomer": false,
+      "isPayWithFixlyRegistered": false,
+      "rating": 4.5,
+      "feedbacksCount": 92,
+      "feedbackClientsCount": 53,
+      "feedbackInfo": {
+        "ratePercentages": [
+          {
+            "rate": 5,
+            "percentage": 85.87,
+            "__typename": "PublicProfileFeedbackInfoRatePercentage"
+          },
+          {
+            "rate": 4,
+            "percentage": 1.09,
+            "__typename": "PublicProfileFeedbackInfoRatePercentage"
+          },
+          {
+            "rate": 3,
+            "percentage": 1.09,
+            "__typename": "PublicProfileFeedbackInfoRatePercentage"
+          },
+          {
+            "rate": 2,
+            "percentage": 3.26,
+            "__typename": "PublicProfileFeedbackInfoRatePercentage"
+          },
+          {
+            "rate": 1,
+            "percentage": 8.7,
+            "__typename": "PublicProfileFeedbackInfoRatePercentage"
+          }
+        ],
+        "topL4Categories": [
+          {
+            "id": "1394",
+            "name": "Stolarz",
+            "__typename": "PublicProfileFeedbackInfoTopL4Categories"
+          },
+          {
+            "id": "1393",
+            "name": "Montaż mebli",
+            "__typename": "PublicProfileFeedbackInfoTopL4Categories"
+          },
+          {
+            "id": "2110",
+            "name": "Meble na wymiar",
+            "__typename": "PublicProfileFeedbackInfoTopL4Categories"
+          },
+          {
+            "id": "1377",
+            "name": "Szafy na wymiar",
+            "__typename": "PublicProfileFeedbackInfoTopL4Categories"
+          },
+          {
+            "id": "1395",
+            "name": "Meble kuchenne na wymiar",
+            "__typename": "PublicProfileFeedbackInfoTopL4Categories"
+          }
+        ],
+        "__typename": "PublicProfileFeedbackInfo"
+      },
+      "contactCardSettings": {
+        "isEmailHidden": false,
+        "isPhoneHidden": false,
+        "__typename": "ContactCardSettingsType"
+      },
+      "prices": [],
+      "phoneVerified": true,
+      "emailVerified": true,
+      "insurance": null,
+      "__typename": "Profile"
+    }
+  }
+}
