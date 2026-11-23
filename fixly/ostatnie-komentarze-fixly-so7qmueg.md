@@ -1,9 +1,10 @@
 # Ostatnie pobrane komentarze ze zdjęciami (stan na 20 listopada 2026)
 
-➡️ [https://www.meblowanko-opinie.pl/ostatnie-komentarze-fixly.html](https://www.meblowanko-opinie.pl/ostatnie-komentarze-fixly.html)
+➡️ [https://www.meblowanko-opinie.pl/fixly/ostatnie-komentarze-fixly-so7qmueg.html](https://www.meblowanko-opinie.pl/fixly/ostatnie-komentarze-fixly-so7qmueg.html)
 
+> kontakt@fixly.pl : Jeżeli dany profil nie istnieje, a konwersacja z nim nie jest już widoczna, może oznaczać to tylko jedną sytuację - wykonawca usunął swoje konto i wszystkie dane z nim związane z serwisu Fixly.
 
-Dane [https://www.meblowanko-opinie.pl/provider_so7qmueg.json](https://www.meblowanko-opinie.pl/provider_so7qmueg.json)
+Dane [https://www.meblowanko-opinie.pl/fixly/provider_so7qmueg.json](https://www.meblowanko-opinie.pl/fixly/provider_so7qmueg.json)
 
 ```
       "yearEstablished": 2020,
@@ -41,9 +42,9 @@ Dane [https://www.meblowanko-opinie.pl/provider_so7qmueg.json](https://www.meblo
 
 |  |  |
 |--|--|
-| ![](./photo/fixlyFeedbacks/4181043-abf4fe007e088efdd971d799a6f36065.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-abf4fe007e088efdd971d799a6f36065.jpg` | ![](./photo/fixlyFeedbacks/4181043-610ca4e34ea151314d65475ca8b62a75.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-610ca4e34ea151314d65475ca8b62a75.jpg` |
-| ![](./photo/fixlyFeedbacks/4181043-1a03dffc81b2c1794929d72010f3e12b.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-1a03dffc81b2c1794929d72010f3e12b.jpg` | ![](./photo/fixlyFeedbacks/4181043-5473d41bf0efcc6c39da5e9399ad31ac.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-5473d41bf0efcc6c39da5e9399ad31ac.jpg` |
-| ![](./photo/fixlyFeedbacks/4181043-89061b4e788c216184e49addef7dac1e.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-89061b4e788c216184e49addef7dac1e.jpg` |  |
+| ![](/photo/fixlyFeedbacks/4181043-abf4fe007e088efdd971d799a6f36065.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-abf4fe007e088efdd971d799a6f36065.jpg` | ![](/photo/fixlyFeedbacks/4181043-610ca4e34ea151314d65475ca8b62a75.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-610ca4e34ea151314d65475ca8b62a75.jpg` |
+| ![](/photo/fixlyFeedbacks/4181043-1a03dffc81b2c1794929d72010f3e12b.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-1a03dffc81b2c1794929d72010f3e12b.jpg` | ![](/photo/fixlyFeedbacks/4181043-5473d41bf0efcc6c39da5e9399ad31ac.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-5473d41bf0efcc6c39da5e9399ad31ac.jpg` |
+| ![](/photo/fixlyFeedbacks/4181043-89061b4e788c216184e49addef7dac1e.jpg)<br>`https://cdn.fixly.pl/feedback/4181043-89061b4e788c216184e49addef7dac1e.jpg` |  |
 
 ---
 
@@ -56,8 +57,8 @@ Dane [https://www.meblowanko-opinie.pl/provider_so7qmueg.json](https://www.meblo
 
 |  |  |
 |--|--|
-| ![](./photo/fixlyFeedbacks/974572-05989594e5416536f257da6cb00cf234.jpg)<br>`https://cdn.fixly.pl/feedback/974572-05989594e5416536f257da6cb00cf234.jpg` | ![](./photo/fixlyFeedbacks/974572-e73a9fbfd7d1dea76be559c2c0f0daac.jpg)<br>`https://cdn.fixly.pl/feedback/974572-e73a9fbfd7d1dea76be559c2c0f0daac.jpg` |
-| ![](./photo/fixlyFeedbacks/974572-1304087dd74c5d837a25ffc0086155ab.jpg)<br>`https://cdn.fixly.pl/feedback/974572-1304087dd74c5d837a25ffc0086155ab.jpg` | ![](./photo/fixlyFeedbacks/974572-b69376dae1c899d5bf14a99646ee2c90.jpg)<br>`https://cdn.fixly.pl/feedback/974572-b69376dae1c899d5bf14a99646ee2c90.jpg` |
+| ![](/photo/fixlyFeedbacks/974572-05989594e5416536f257da6cb00cf234.jpg)<br>`https://cdn.fixly.pl/feedback/974572-05989594e5416536f257da6cb00cf234.jpg` | ![](/photo/fixlyFeedbacks/974572-e73a9fbfd7d1dea76be559c2c0f0daac.jpg)<br>`https://cdn.fixly.pl/feedback/974572-e73a9fbfd7d1dea76be559c2c0f0daac.jpg` |
+| ![](/photo/fixlyFeedbacks/974572-1304087dd74c5d837a25ffc0086155ab.jpg)<br>`https://cdn.fixly.pl/feedback/974572-1304087dd74c5d837a25ffc0086155ab.jpg` | ![](/photo/fixlyFeedbacks/974572-b69376dae1c899d5bf14a99646ee2c90.jpg)<br>`https://cdn.fixly.pl/feedback/974572-b69376dae1c899d5bf14a99646ee2c90.jpg` |
 
 ---
 
@@ -69,7 +70,7 @@ Dane [https://www.meblowanko-opinie.pl/provider_so7qmueg.json](https://www.meblo
 
 |  |
 |--|
-| ![](./photo/fixlyFeedbacks/4061190-9825c61d4309f6a3b3111b60d9d0b4ee.jpg)<br>`https://cdn.fixly.pl/feedback/4061190-9825c61d4309f6a3b3111b60d9d0b4ee.jpg` |
+| ![](/photo/fixlyFeedbacks/4061190-9825c61d4309f6a3b3111b60d9d0b4ee.jpg)<br>`https://cdn.fixly.pl/feedback/4061190-9825c61d4309f6a3b3111b60d9d0b4ee.jpg` |
 
 ---
 
@@ -82,9 +83,9 @@ Dane [https://www.meblowanko-opinie.pl/provider_so7qmueg.json](https://www.meblo
 
 |  |  |
 |--|--|
-| ![](./photo/fixlyFeedbacks/3967379-58522221d4514c2bde0536d04d8c2eaf.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-58522221d4514c2bde0536d04d8c2eaf.jpg` | ![](./photo/fixlyFeedbacks/3967379-b6c2a5f45a76c437f5d4c50835e45cdc.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-b6c2a5f45a76c437f5d4c50835e45cdc.jpg` |
-| ![](./photo/fixlyFeedbacks/3967379-050d9c0be738d994fee86f0b006cbe0e.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-050d9c0be738d994fee86f0b006cbe0e.jpg` | ![](./photo/fixlyFeedbacks/3967379-1b53c6bf30ab46cc80a59811da154a35.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-1b53c6bf30ab46cc80a59811da154a35.jpg` |
-| ![](./photo/fixlyFeedbacks/3967379-134dfff08f1a0002d95f6ecb472fd30e.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-134dfff08f1a0002d95f6ecb472fd30e.jpg` |  |
+| ![](/photo/fixlyFeedbacks/3967379-58522221d4514c2bde0536d04d8c2eaf.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-58522221d4514c2bde0536d04d8c2eaf.jpg` | ![](/photo/fixlyFeedbacks/3967379-b6c2a5f45a76c437f5d4c50835e45cdc.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-b6c2a5f45a76c437f5d4c50835e45cdc.jpg` |
+| ![](/photo/fixlyFeedbacks/3967379-050d9c0be738d994fee86f0b006cbe0e.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-050d9c0be738d994fee86f0b006cbe0e.jpg` | ![](/photo/fixlyFeedbacks/3967379-1b53c6bf30ab46cc80a59811da154a35.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-1b53c6bf30ab46cc80a59811da154a35.jpg` |
+| ![](/photo/fixlyFeedbacks/3967379-134dfff08f1a0002d95f6ecb472fd30e.jpg)<br>`https://cdn.fixly.pl/feedback/3967379-134dfff08f1a0002d95f6ecb472fd30e.jpg` |  |
 
 ---
 
@@ -97,9 +98,9 @@ Dane [https://www.meblowanko-opinie.pl/provider_so7qmueg.json](https://www.meblo
 
 |  |  |
 |--|--|
-| ![](./photo/fixlyFeedbacks/1088473-e04fac5e1dea183b52ea247d5b73add8.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-e04fac5e1dea183b52ea247d5b73add8.jpg` | ![](./photo/fixlyFeedbacks/1088473-cf56b887ae9c8f1e9c95e72823448c80.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-cf56b887ae9c8f1e9c95e72823448c80.jpg` |
-| ![](./photo/fixlyFeedbacks/1088473-500199d667e5960b4aff2ea221dd02c3.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-500199d667e5960b4aff2ea221dd02c3.jpg` | ![](./photo/fixlyFeedbacks/1088473-f2cac8b219a67e8ccef3b2f4895ebc88.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-f2cac8b219a67e8ccef3b2f4895ebc88.jpg` |
-| ![](./photo/fixlyFeedbacks/1088473-0126aedb298f7a14eebec45ddc7e9a97.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-0126aedb298f7a14eebec45ddc7e9a97.jpg` |  |
+| ![](/photo/fixlyFeedbacks/1088473-e04fac5e1dea183b52ea247d5b73add8.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-e04fac5e1dea183b52ea247d5b73add8.jpg` | ![](/photo/fixlyFeedbacks/1088473-cf56b887ae9c8f1e9c95e72823448c80.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-cf56b887ae9c8f1e9c95e72823448c80.jpg` |
+| ![](/photo/fixlyFeedbacks/1088473-500199d667e5960b4aff2ea221dd02c3.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-500199d667e5960b4aff2ea221dd02c3.jpg` | ![](/photo/fixlyFeedbacks/1088473-f2cac8b219a67e8ccef3b2f4895ebc88.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-f2cac8b219a67e8ccef3b2f4895ebc88.jpg` |
+| ![](/photo/fixlyFeedbacks/1088473-0126aedb298f7a14eebec45ddc7e9a97.jpg)<br>`https://cdn.fixly.pl/feedback/1088473-0126aedb298f7a14eebec45ddc7e9a97.jpg` |  |
 
 ---
 
@@ -112,7 +113,7 @@ Dane [https://www.meblowanko-opinie.pl/provider_so7qmueg.json](https://www.meblo
 
 |  |
 |--|
-| ![](./photo/fixlyFeedbacks/3627674-6ce2c152c519a5bca62fd7f7d17c3426.jpg)<br>`https://cdn.fixly.pl/gallery/3627674-6ce2c152c519a5bca62fd7f7d17c3426.jpg` |
+| ![](/photo/fixlyFeedbacks/3627674-6ce2c152c519a5bca62fd7f7d17c3426.jpg)<br>`https://cdn.fixly.pl/gallery/3627674-6ce2c152c519a5bca62fd7f7d17c3426.jpg` |
 
 ---
 
@@ -126,8 +127,8 @@ Dane [https://www.meblowanko-opinie.pl/provider_so7qmueg.json](https://www.meblo
 
 |  |  |
 |--|--|
-| ![](./photo/fixlyFeedbacks/2268275-e1a111519ec3c967a279e77750b4a591.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-e1a111519ec3c967a279e77750b4a591.jpg` | ![](./photo/fixlyFeedbacks/2268275-3fe484590292299b1a0c1bc54c886193.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-3fe484590292299b1a0c1bc54c886193.jpg` |
-| ![](./photo/fixlyFeedbacks/2268275-e8213077a29c364af0d687c652058b5a.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-e8213077a29c364af0d687c652058b5a.jpg` | ![](./photo/fixlyFeedbacks/2268275-77dd48033f201b0ff0d9449cea13c2de.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-77dd48033f201b0ff0d9449cea13c2de.jpg` |
+| ![](/photo/fixlyFeedbacks/2268275-e1a111519ec3c967a279e77750b4a591.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-e1a111519ec3c967a279e77750b4a591.jpg` | ![](/photo/fixlyFeedbacks/2268275-3fe484590292299b1a0c1bc54c886193.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-3fe484590292299b1a0c1bc54c886193.jpg` |
+| ![](/photo/fixlyFeedbacks/2268275-e8213077a29c364af0d687c652058b5a.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-e8213077a29c364af0d687c652058b5a.jpg` | ![](/photo/fixlyFeedbacks/2268275-77dd48033f201b0ff0d9449cea13c2de.jpg)<br>`https://cdn.fixly.pl/feedback/2268275-77dd48033f201b0ff0d9449cea13c2de.jpg` |
 
 ---
 
@@ -139,7 +140,7 @@ Dane [https://www.meblowanko-opinie.pl/provider_so7qmueg.json](https://www.meblo
 
 |  |
 |--|
-| ![](./photo/fixlyFeedbacks/3237528-4e5254b1d338dd207d2e6e63f24da194.jpg)<br>`https://cdn.fixly.pl/feedback/3237528-4e5254b1d338dd207d2e6e63f24da194.jpg` |
+| ![](/photo/fixlyFeedbacks/3237528-4e5254b1d338dd207d2e6e63f24da194.jpg)<br>`https://cdn.fixly.pl/feedback/3237528-4e5254b1d338dd207d2e6e63f24da194.jpg` |
 
 ---
 
@@ -154,6 +155,6 @@ Dane [https://www.meblowanko-opinie.pl/provider_so7qmueg.json](https://www.meblo
 
 |  |  |
 |--|--|
-| ![](./photo/fixlyFeedbacks/2790458-382c27ca75ecb7ccafc1700aae9f3762.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-382c27ca75ecb7ccafc1700aae9f3762.jpg` | ![](./photo/fixlyFeedbacks/2790458-07d7d31bf07e144440a32e3281607c77.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-07d7d31bf07e144440a32e3281607c77.jpg` |
-| ![](./photo/fixlyFeedbacks/2790458-11c4cc6e013666c76cd196a9ecd0f8e8.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-11c4cc6e013666c76cd196a9ecd0f8e8.jpg` | ![](./photo/fixlyFeedbacks/2790458-e260e481c4be474495130768938e4744.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-e260e481c4be474495130768938e4744.jpg` |
-| ![](./photo/fixlyFeedbacks/2790458-1a48ef11106ca6d03387e966f47bc5f6.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-1a48ef11106ca6d03387e966f47bc5f6.jpg` |  |
+| ![](/photo/fixlyFeedbacks/2790458-382c27ca75ecb7ccafc1700aae9f3762.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-382c27ca75ecb7ccafc1700aae9f3762.jpg` | ![](/photo/fixlyFeedbacks/2790458-07d7d31bf07e144440a32e3281607c77.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-07d7d31bf07e144440a32e3281607c77.jpg` |
+| ![](/photo/fixlyFeedbacks/2790458-11c4cc6e013666c76cd196a9ecd0f8e8.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-11c4cc6e013666c76cd196a9ecd0f8e8.jpg` | ![](/photo/fixlyFeedbacks/2790458-e260e481c4be474495130768938e4744.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-e260e481c4be474495130768938e4744.jpg` |
+| ![](/photo/fixlyFeedbacks/2790458-1a48ef11106ca6d03387e966f47bc5f6.jpg)<br>`https://cdn.fixly.pl/feedback/2790458-1a48ef11106ca6d03387e966f47bc5f6.jpg` |  |

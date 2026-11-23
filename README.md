@@ -34,7 +34,7 @@ Realizacja:
 
 
 
-{% include_relative ostatnie-komentarze-fixly.md %}
+{% include_relative fixly/ostatnie-komentarze-fixly-so7qmueg.md %}
 
 # Przedmiot zamówienia
 ```
