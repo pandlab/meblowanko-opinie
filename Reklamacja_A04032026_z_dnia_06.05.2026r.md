@@ -82,5 +82,5 @@ Proszę o pisemną odpowiedź w terminie 14 dni od dnia doręczenia niniejszej r
 
 
 Z poważaniem
-Paweł Nadolski
+...
 ```
